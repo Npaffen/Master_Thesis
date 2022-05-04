@@ -1,0 +1,1432 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.2 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \datalist[entry]{apa/global//global/global}
+    \entry{Amoukou2021}{article}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=bb7433bb6f5e71dd4e9f3f4846291197}{%
+           family={Amoukou},
+           familyi={A\bibinitperiod},
+           given={Salim\bibnamedelima I.},
+           giveni={S\bibinitperiod\bibinitdelim I\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=ed8f418bb0f76cb78b831ca253fb34b8}{%
+           family={Brunel},
+           familyi={B\bibinitperiod},
+           given={Nicolas\bibnamedelima J-B.},
+           giveni={N\bibinitperiod\bibinitdelim J\bibinithyphendelim B\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=ab464133049518a62fe4cf51cb009a8b}{%
+           family={Salaün},
+           familyi={S\bibinitperiod},
+           given={Tangi},
+           giveni={T\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{a69a8f2d98a64fb191a76f818d42064a}
+      \strng{fullhash}{45e050b73f2b475535e15ef5472b1301}
+      \strng{bibnamehash}{45e050b73f2b475535e15ef5472b1301}
+      \strng{authorbibnamehash}{45e050b73f2b475535e15ef5472b1301}
+      \strng{authornamehash}{a69a8f2d98a64fb191a76f818d42064a}
+      \strng{authorfullhash}{45e050b73f2b475535e15ef5472b1301}
+      \field{sortinit}{A}
+      \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Although Shapley Values (SV) are widely used in explainable AI, they can be poorly understood and estimated, implying that their analysis may lead to spurious inferences and explanations. As a starting point, we remind an invariance principle for SV and derive the correct approach for computing the SV of categorical variables that are particularly sensitive to the encoding used. In the case of tree-based models, we introduce two estimators of Shapley Values that exploit the tree structure efficiently and are more accurate than state-of-the-art methods. Simulations and comparisons are performed with state-of-the-art algorithms and show the practical gain of our approach. Finally, we discuss the ability of SV to provide reliable local explanations. We also provide a Python package that computes our estimators at https://github.com/salimamoukou/acv00.}
+      \field{day}{7}
+      \field{eprintclass}{stat.ML}
+      \field{eprinttype}{arXiv}
+      \field{journaltitle}{AISTATS 2022}
+      \field{month}{6}
+      \field{title}{Accurate Shapley Values for explaining tree-based models}
+      \field{year}{2021}
+      \field{dateera}{ce}
+      \verb{eprint}
+      \verb 2106.03820v2
+      \endverb
+      \verb{file}
+      \verb :http\://arxiv.org/pdf/2106.03820v2:PDF
+      \endverb
+      \keyw{stat.ML,cs.LG}
+    \endentry
+    \entry{Bergstra2012}{article}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=0bc66fe902c838c216bd3175dfeb045b}{%
+           family={Bergstra},
+           familyi={B\bibinitperiod},
+           given={James},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=40a8e4774982146adc2688546f54efb2}{%
+           family={Bengio},
+           familyi={B\bibinitperiod},
+           given={Yoshua},
+           giveni={Y\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {JMLR.org}%
+      }
+      \strng{namehash}{a05cf9842110d2caa7fbdda862c52ff8}
+      \strng{fullhash}{a05cf9842110d2caa7fbdda862c52ff8}
+      \strng{bibnamehash}{a05cf9842110d2caa7fbdda862c52ff8}
+      \strng{authorbibnamehash}{a05cf9842110d2caa7fbdda862c52ff8}
+      \strng{authornamehash}{a05cf9842110d2caa7fbdda862c52ff8}
+      \strng{authorfullhash}{a05cf9842110d2caa7fbdda862c52ff8}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Grid search and manual search are the most widely used strategies for hyper-parameter optimization. This paper shows empirically and theoretically that randomly chosen trials are more efficient for hyper-parameter optimization than trials on a grid. Empirical evidence comes from a comparison with a large previous study that used grid search and manual search to configure neural networks and deep belief networks. Compared with neural networks configured by a pure grid search, we find that random search over the same domain is able to find models that are as good or better within a small fraction of the computation time. Granting random search the same computational budget, random search finds better models by effectively searching a larger, less promising configuration space. Compared with deep belief networks configured by a thoughtful combination of manual search and grid search, purely random search over the same 32-dimensional configuration space found statistically equal performance on four of seven data sets, and superior performance on one of seven. A Gaussian process analysis of the function from hyper-parameters to validation set performance reveals that for most data sets only a few of the hyper-parameters really matter, but that different hyper-parameters are important on different data sets. This phenomenon makes grid search a poor choice for configuring algorithms for new data sets. Our analysis casts some light on why recent "High Throughput" methods achieve surprising success--they appear to search through a large number of hyper-parameters because most hyper-parameters do not matter much. We anticipate that growing interest in large hierarchical models will place an increasing burden on techniques for hyper-parameter optimization; this work shows that random search is a natural baseline against which to judge progress in the development of adaptive (sequential) hyper-parameter optimization algorithms.}
+      \field{issn}{1532-4435}
+      \field{journaltitle}{J. Mach. Learn. Res.}
+      \field{month}{2}
+      \field{number}{null}
+      \field{title}{Random Search for Hyper-Parameter Optimization}
+      \field{volume}{13}
+      \field{year}{2012}
+      \field{pages}{281\bibrangedash 305}
+      \range{pages}{25}
+      \keyw{deep learning,global optimization,model selection,neural networks,response surface modeling}
+    \endentry
+    \entry{Brefeld2020}{book}{}
+      \name{author}{4}{}{%
+        {{un=0,uniquepart=base,hash=93fb40e6005e64fa3979a1015c1b6bb4}{%
+           family={Brefeld},
+           familyi={B\bibinitperiod},
+           given={Ulf},
+           giveni={U\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=5f9ed160b91c65c59a8d61af7f1e5017}{%
+           family={Davis},
+           familyi={D\bibinitperiod},
+           given={Jesse},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=a1b01fb1ba86a10516bc9f287fece9ed}{%
+           family={Haaren},
+           familyi={H\bibinitperiod},
+           given={Jan\bibnamedelima Van},
+           giveni={J\bibinitperiod\bibinitdelim V\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=a66ce1d6468c3c2772d64351e735ad47}{%
+           family={Zimmermann},
+           familyi={Z\bibinitperiod},
+           given={Albrecht},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Springer International Publishing}%
+      }
+      \strng{namehash}{24ff0c88b629b09b8f2a417c8a45d230}
+      \strng{fullhash}{6102375b83c5eedb019131562af34297}
+      \strng{bibnamehash}{6102375b83c5eedb019131562af34297}
+      \strng{authorbibnamehash}{6102375b83c5eedb019131562af34297}
+      \strng{authornamehash}{24ff0c88b629b09b8f2a417c8a45d230}
+      \strng{authorfullhash}{6102375b83c5eedb019131562af34297}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{day}{9}
+      \field{month}{12}
+      \field{pagetotal}{141}
+      \field{title}{Machine Learning and Data Mining for Sports Analytics}
+      \field{year}{2020}
+      \field{dateera}{ce}
+      \verb{urlraw}
+      \verb https://www.ebook.de/de/product/41245195/machine_learning_and_data_mining_for_sports_analytics.html
+      \endverb
+      \verb{url}
+      \verb https://www.ebook.de/de/product/41245195/machine_learning_and_data_mining_for_sports_analytics.html
+      \endverb
+    \endentry
+    \entry{Breiman2001}{article}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=132b7100417675d55d5d4d8b244f7a34}{%
+           family={Breiman},
+           familyi={B\bibinitperiod},
+           given={Leo},
+           giveni={L\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{2}{%
+        {Springer Science}%
+        {Business Media {LLC}}%
+      }
+      \strng{namehash}{132b7100417675d55d5d4d8b244f7a34}
+      \strng{fullhash}{132b7100417675d55d5d4d8b244f7a34}
+      \strng{bibnamehash}{132b7100417675d55d5d4d8b244f7a34}
+      \strng{authorbibnamehash}{132b7100417675d55d5d4d8b244f7a34}
+      \strng{authornamehash}{132b7100417675d55d5d4d8b244f7a34}
+      \strng{authorfullhash}{132b7100417675d55d5d4d8b244f7a34}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Machine Learning}
+      \field{number}{1}
+      \field{title}{Random Forests}
+      \field{volume}{45}
+      \field{year}{2001}
+      \field{pages}{5\bibrangedash 32}
+      \range{pages}{28}
+      \verb{doi}
+      \verb 10.1023/a:1010933404324
+      \endverb
+    \endentry
+    \entry{Brochu2010}{article}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=69ca5a2f1c1dc2d3ee07734e8ac8fcc8}{%
+           family={Brochu},
+           familyi={B\bibinitperiod},
+           given={Eric},
+           giveni={E\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=f1ae6a3c05fc18b461b2a63747f694cb}{%
+           family={Cora},
+           familyi={C\bibinitperiod},
+           given={Vlad\bibnamedelima M.},
+           giveni={V\bibinitperiod\bibinitdelim M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=cf269f9a5106a41ad53847a68a27db1c}{%
+           family={Freitas},
+           familyi={F\bibinitperiod},
+           given={Nando},
+           giveni={N\bibinitperiod},
+           givenun=0,
+           prefix={de},
+           prefixi={d\bibinitperiod}}}%
+      }
+      \strng{namehash}{a375c878d92ed5050a5511add3f14204}
+      \strng{fullhash}{42c0695691589e8a7cb4cc629abb7900}
+      \strng{bibnamehash}{42c0695691589e8a7cb4cc629abb7900}
+      \strng{authorbibnamehash}{42c0695691589e8a7cb4cc629abb7900}
+      \strng{authornamehash}{a375c878d92ed5050a5511add3f14204}
+      \strng{authorfullhash}{42c0695691589e8a7cb4cc629abb7900}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{We present a tutorial on Bayesian optimization, a method of finding the maximum of expensive cost functions. Bayesian optimization employs the Bayesian technique of setting a prior over the objective function and combining it with evidence to get a posterior function. This permits a utility-based selection of the next observation to make on the objective function, which must take into account both exploration (sampling from areas of high uncertainty) and exploitation (sampling areas likely to offer improvement over the current best observation). We also present two detailed extensions of Bayesian optimization, with experiments---active user modelling with preferences, and hierarchical reinforcement learning---and a discussion of the pros and cons of Bayesian optimization based on our experiences.}
+      \field{day}{12}
+      \field{eprintclass}{cs.LG}
+      \field{eprinttype}{arXiv}
+      \field{month}{12}
+      \field{title}{A Tutorial on Bayesian Optimization of Expensive Cost Functions, with Application to Active User Modeling and Hierarchical Reinforcement Learning}
+      \field{year}{2010}
+      \field{dateera}{ce}
+      \verb{eprint}
+      \verb 1012.2599v1
+      \endverb
+      \verb{file}
+      \verb :http\://arxiv.org/pdf/1012.2599v1:PDF
+      \endverb
+      \keyw{cs.LG,G.1.6; G.3; I.2.6}
+    \endentry
+    \entry{Chen2016}{article}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=48461ccdf50ba5a54e29a354aa734c0b}{%
+           family={Chen},
+           familyi={C\bibinitperiod},
+           given={Tianqi},
+           giveni={T\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=c9ab8ac486d7f85ac914b1a8e51e512b}{%
+           family={Guestrin},
+           familyi={G\bibinitperiod},
+           given={Carlos},
+           giveni={C\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {ACM}%
+      }
+      \strng{namehash}{f79ceb030bcf791e5521f87ac6ada03b}
+      \strng{fullhash}{f79ceb030bcf791e5521f87ac6ada03b}
+      \strng{bibnamehash}{f79ceb030bcf791e5521f87ac6ada03b}
+      \strng{authorbibnamehash}{f79ceb030bcf791e5521f87ac6ada03b}
+      \strng{authornamehash}{f79ceb030bcf791e5521f87ac6ada03b}
+      \strng{authorfullhash}{f79ceb030bcf791e5521f87ac6ada03b}
+      \field{sortinit}{C}
+      \field{sortinithash}{4d103a86280481745c9c897c925753c0}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Proceedings of the 22nd ACM SIGKDD International Conference on Knowledge Discovery and Data Mining}
+      \field{month}{8}
+      \field{title}{XGBoost}
+      \field{year}{2016}
+      \verb{doi}
+      \verb 10.1145/2939672.2939785
+      \endverb
+      \verb{urlraw}
+      \verb http://dx.doi.org/10.1145/2939672.2939785
+      \endverb
+      \verb{url}
+      \verb http://dx.doi.org/10.1145/2939672.2939785
+      \endverb
+    \endentry
+    \entry{Claudino2019a}{article}{}
+      \name{author}{6}{}{%
+        {{un=0,uniquepart=base,hash=401c8289ae766057fd314adc1c8e36c4}{%
+           family={Claudino},
+           familyi={C\bibinitperiod},
+           given={João\bibnamedelima Gustavo},
+           giveni={J\bibinitperiod\bibinitdelim G\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=b9244c4b819d927b822b3b8f40abdc93}{%
+           family={Oliveira\bibnamedelima Capanema},
+           familyi={O\bibinitperiod\bibinitdelim C\bibinitperiod},
+           given={Daniel},
+           giveni={D\bibinitperiod},
+           givenun=0,
+           prefix={de},
+           prefixi={d\bibinitperiod}}}%
+        {{un=0,uniquepart=base,hash=20e351060b333dd22f159e3079b8f9e2}{%
+           family={Souza},
+           familyi={S\bibinitperiod},
+           given={Thiago\bibnamedelima Vieira},
+           giveni={T\bibinitperiod\bibinitdelim V\bibinitperiod},
+           givenun=0,
+           prefix={de},
+           prefixi={d\bibinitperiod}}}%
+        {{un=0,uniquepart=base,hash=1d001316522508f473b239930e7386d4}{%
+           family={Serrão},
+           familyi={S\bibinitperiod},
+           given={Julio\bibnamedelima Cerca},
+           giveni={J\bibinitperiod\bibinitdelim C\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=9964acba0978e3a06933c3a3ec965de3}{%
+           family={Pereira},
+           familyi={P\bibinitperiod},
+           given={Adriano\bibnamedelimb C.\bibnamedelimi Machado},
+           giveni={A\bibinitperiod\bibinitdelim C\bibinitperiod\bibinitdelim M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=d77903d8e1612a6833ff86040ea26002}{%
+           family={Nassis},
+           familyi={N\bibinitperiod},
+           given={George\bibnamedelima P.},
+           giveni={G\bibinitperiod\bibinitdelim P\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{2}{%
+        {Springer Science}%
+        {Business Media {LLC}}%
+      }
+      \strng{namehash}{ebddedd085fbedb9ad96966207d16e30}
+      \strng{fullhash}{95748a22c50c8a5edc6add1ace93aad7}
+      \strng{bibnamehash}{95748a22c50c8a5edc6add1ace93aad7}
+      \strng{authorbibnamehash}{95748a22c50c8a5edc6add1ace93aad7}
+      \strng{authornamehash}{ebddedd085fbedb9ad96966207d16e30}
+      \strng{authorfullhash}{95748a22c50c8a5edc6add1ace93aad7}
+      \field{sortinit}{C}
+      \field{sortinithash}{4d103a86280481745c9c897c925753c0}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{month}{7}
+      \field{number}{1}
+      \field{title}{Current Approaches to the Use of Artificial Intelligence for Injury Risk Assessment and Performance Prediction in Team Sports: a Systematic Review}
+      \field{volume}{5}
+      \field{year}{2019}
+      \verb{doi}
+      \verb 10.1186/s40798-019-0202-3
+      \endverb
+    \endentry
+    \entry{Hvarfner2022}{article}{}
+      \name{author}{6}{}{%
+        {{un=0,uniquepart=base,hash=17af99f4c322feed5bd6d5d3e665950c}{%
+           family={Hvarfner},
+           familyi={H\bibinitperiod},
+           given={Carl},
+           giveni={C\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=3b8accb44f8fcbde53bbd3a03c1cc2bc}{%
+           family={Stoll},
+           familyi={S\bibinitperiod},
+           given={Danny},
+           giveni={D\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=eaed062e18e29348dd91d84f226e6cd0}{%
+           family={Souza},
+           familyi={S\bibinitperiod},
+           given={Artur},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=ff21c975484f253b4daf2a4884e31e23}{%
+           family={Nardi},
+           familyi={N\bibinitperiod},
+           given={Luigi},
+           giveni={L\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=fcea9ebaf01b5a334513699230ad72fc}{%
+           family={Lindauer},
+           familyi={L\bibinitperiod},
+           given={Marius},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=528d4af87fd2ecf5fb8a22db913ce088}{%
+           family={Hutter},
+           familyi={H\bibinitperiod},
+           given={Frank},
+           giveni={F\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{5ba319d36eee7a2eb3624b70550069ad}
+      \strng{fullhash}{0920f005387929acd1e24100ad8df852}
+      \strng{bibnamehash}{0920f005387929acd1e24100ad8df852}
+      \strng{authorbibnamehash}{0920f005387929acd1e24100ad8df852}
+      \strng{authornamehash}{5ba319d36eee7a2eb3624b70550069ad}
+      \strng{authorfullhash}{0920f005387929acd1e24100ad8df852}
+      \field{sortinit}{H}
+      \field{sortinithash}{23a3aa7c24e56cfa16945d55545109b5}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{10th International Conference on Learning Representations, ICLR'22}
+      \field{month}{4}
+      \field{title}{piBO: Augmenting Acquisition Functions with User Beliefs for Bayesian Optimization}
+      \field{year}{2022}
+      \field{pages}{1\bibrangedash 30}
+      \range{pages}{30}
+      \verb{urlraw}
+      \verb https://openreview.net/pdf/1ce81b811a1cac6ed2405793a93e8512b1b50005.pdf
+      \endverb
+      \verb{url}
+      \verb https://openreview.net/pdf/1ce81b811a1cac6ed2405793a93e8512b1b50005.pdf
+      \endverb
+      \keyw{Acquisition Augmenting Functions leibnizailab myown}
+    \endentry
+    \entry{Karetnikov2019}{article}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=472dc7f2b0d35c44d56bd9bcbcdaec10}{%
+           family={Karetnikov},
+           familyi={K\bibinitperiod},
+           given={A.D.},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{472dc7f2b0d35c44d56bd9bcbcdaec10}
+      \strng{fullhash}{472dc7f2b0d35c44d56bd9bcbcdaec10}
+      \strng{bibnamehash}{472dc7f2b0d35c44d56bd9bcbcdaec10}
+      \strng{authorbibnamehash}{472dc7f2b0d35c44d56bd9bcbcdaec10}
+      \strng{authornamehash}{472dc7f2b0d35c44d56bd9bcbcdaec10}
+      \strng{authorfullhash}{472dc7f2b0d35c44d56bd9bcbcdaec10}
+      \field{sortinit}{K}
+      \field{sortinithash}{c02bf6bff1c488450c352b40f5d853ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Application of data-driven analytics on sport data from a professional bicycle racing team}
+      \field{year}{2019}
+      \field{pages}{1\bibrangessep 23\bibrangessep 24\bibrangessep 25\bibrangessep 47\bibrangessep 48\bibrangessep 51\bibrangessep 52\bibrangessep 53}
+      \range{pages}{9}
+    \endentry
+    \entry{Ke2017}{article}{}
+      \name{author}{8}{}{%
+        {{un=0,uniquepart=base,hash=dadd87e1dad07728ce408894042b277e}{%
+           family={Ke},
+           familyi={K\bibinitperiod},
+           given={Guolin},
+           giveni={G\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=359e0be87f96079a68d0ebf5355da232}{%
+           family={Meng},
+           familyi={M\bibinitperiod},
+           given={Qi},
+           giveni={Q\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=d1cb1c25fa372c0b0885de8a27dc0222}{%
+           family={Finley},
+           familyi={F\bibinitperiod},
+           given={Thomas},
+           giveni={T\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=b5857cb363d37a3b1ff2c28da6586fc9}{%
+           family={Wang},
+           familyi={W\bibinitperiod},
+           given={Taifeng},
+           giveni={T\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=06debc36f6b61a405e8f0da1c7ccd6ca}{%
+           family={Chen},
+           familyi={C\bibinitperiod},
+           given={Wei},
+           giveni={W\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=a70fde7196864f8be0248eba2f7f29c8}{%
+           family={Ma},
+           familyi={M\bibinitperiod},
+           given={Weidong},
+           giveni={W\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=162ccfc475d9d2bc1177357e4913f290}{%
+           family={Ye},
+           familyi={Y\bibinitperiod},
+           given={Qiwei},
+           giveni={Q\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=716b89cbb7332599ebb33cc58a52f648}{%
+           family={Liu},
+           familyi={L\bibinitperiod},
+           given={Tie-Yan},
+           giveni={T\bibinithyphendelim Y\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{location}{1}{%
+        {Long Beach, California, USA}%
+      }
+      \list{publisher}{1}{%
+        {Curran Associates Inc.}%
+      }
+      \strng{namehash}{cec83448a93ad6a5cdc6f494a8f2dbcb}
+      \strng{fullhash}{138b620984178bfaf960c59da39eb14f}
+      \strng{bibnamehash}{138b620984178bfaf960c59da39eb14f}
+      \strng{authorbibnamehash}{138b620984178bfaf960c59da39eb14f}
+      \strng{authornamehash}{cec83448a93ad6a5cdc6f494a8f2dbcb}
+      \strng{authorfullhash}{138b620984178bfaf960c59da39eb14f}
+      \field{sortinit}{K}
+      \field{sortinithash}{c02bf6bff1c488450c352b40f5d853ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Gradient Boosting Decision Tree (GBDT) is a popular machine learning algorithm, and has quite a few effective implementations such as XGBoost and pGBRT. Although many engineering optimizations have been adopted in these implementations, the efficiency and scalability are still unsatisfactory when the feature dimension is high and data size is large. A major reason is that for each feature, they need to scan all the data instances to estimate the information gain of all possible split points, which is very time consuming. To tackle this problem, we propose two novel techniques: Gradient-based One-Side Sampling (GOSS) and Exclusive Feature Bundling (EFB). With GOSS, we exclude a significant proportion of data instances with small gradients, and only use the rest to estimate the information gain. We prove that, since the data instances with larger gradients play a more important role in the computation of information gain, GOSS can obtain quite accurate estimation of the information gain with a much smaller data size. With EFB, we bundle mutually exclusive features (i.e., they rarely take nonzero values simultaneously), to reduce the number of features. We prove that finding the optimal bundling of exclusive features is NP-hard, but a greedy algorithm can achieve quite good approximation ratio (and thus can effectively reduce the number of features without hurting the accuracy of split point determination by much). We call our new GBDT implementation with GOSS and EFB LightGBM. Our experiments on multiple public datasets show that, LightGBM speeds up the training process of conventional GBDT by up to over 20 times while achieving almost the same accuracy.}
+      \field{isbn}{9781510860964}
+      \field{journaltitle}{Proceedings of the 31st International Conference on Neural Information Processing Systems}
+      \field{series}{NIPS'17}
+      \field{title}{LightGBM: A Highly Efficient Gradient Boosting Decision Tree}
+      \field{year}{2017}
+      \field{pages}{3149\bibrangedash 3157}
+      \range{pages}{9}
+      \verb{doi}
+      \verb 10.5555/3294996.3295074
+      \endverb
+    \endentry
+    \entry{Kholkine2020}{inbook}{}
+      \name{author}{4}{}{%
+        {{un=0,uniquepart=base,hash=28c87c8e446785db4f3333c0869ee259}{%
+           family={Kholkine},
+           familyi={K\bibinitperiod},
+           given={Leonid},
+           giveni={L\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=afde2e1cb9044982b96e05eb0d632e58}{%
+           family={Schepper},
+           familyi={S\bibinitperiod},
+           given={Tom\bibnamedelima De},
+           giveni={T\bibinitperiod\bibinitdelim D\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=d8783426f9845c7d6fa99b9b18afd050}{%
+           family={Verdonck},
+           familyi={V\bibinitperiod},
+           given={Tim},
+           giveni={T\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=a90fcfbdb93c8d5f74e60a16b052576e}{%
+           family={Latré},
+           familyi={L\bibinitperiod},
+           given={Steven},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Springer International Publishing}%
+      }
+      \strng{namehash}{5878baa89911008694653147484febbb}
+      \strng{fullhash}{a519302b93e22bbde5fac9d9c17a6136}
+      \strng{bibnamehash}{a519302b93e22bbde5fac9d9c17a6136}
+      \strng{authorbibnamehash}{a519302b93e22bbde5fac9d9c17a6136}
+      \strng{authornamehash}{5878baa89911008694653147484febbb}
+      \strng{authorfullhash}{a519302b93e22bbde5fac9d9c17a6136}
+      \field{sortinit}{K}
+      \field{sortinithash}{c02bf6bff1c488450c352b40f5d853ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{A Machine Learning Approach for Road Cycling Race Performance Prediction}
+      \field{year}{2020}
+      \field{pages}{103\bibrangedash 112}
+      \range{pages}{10}
+      \verb{doi}
+      \verb 10.1007/978-3-030-64912-8_9
+      \endverb
+    \endentry
+    \entry{Lemaitre2018}{article}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=781d41794e363edaf811a97df6ec0bcc}{%
+           family={Lemaître},
+           familyi={L\bibinitperiod},
+           given={Guillaume},
+           giveni={G\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=810d89d0f7514063149096051accccbd}{%
+           family={Lemaitre},
+           familyi={L\bibinitperiod},
+           given={Cedric},
+           giveni={C\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{c7e80aa7c667058cff818e3fd0f391cd}
+      \strng{fullhash}{c7e80aa7c667058cff818e3fd0f391cd}
+      \strng{bibnamehash}{c7e80aa7c667058cff818e3fd0f391cd}
+      \strng{authorbibnamehash}{c7e80aa7c667058cff818e3fd0f391cd}
+      \strng{authornamehash}{c7e80aa7c667058cff818e3fd0f391cd}
+      \strng{authorfullhash}{c7e80aa7c667058cff818e3fd0f391cd}
+      \field{sortinit}{L}
+      \field{sortinithash}{7c47d417cecb1f4bd38d1825c427a61a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Science \& Cycling 2018 (Conference)}
+      \field{title}{Estimate Power without Measuring it: a Machine Learning Application (Slides)}
+      \field{year}{2018}
+      \verb{doi}
+      \verb 10.13140/RG.2.2.20151.57762
+      \endverb
+    \endentry
+    \entry{Lundberg2018}{article}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=b659ebc88023a12a732b4db9afdede3d}{%
+           family={Lundberg},
+           familyi={L\bibinitperiod},
+           given={Scott},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=6638bfc88d943c06a543bcc617a0325e}{%
+           family={Erion},
+           familyi={E\bibinitperiod},
+           given={Gabriel\bibnamedelima G.},
+           giveni={G\bibinitperiod\bibinitdelim G\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=ee964079d93879aaef2382a5fff343d3}{%
+           family={Lee},
+           familyi={L\bibinitperiod},
+           given={Su-In},
+           giveni={S\bibinithyphendelim I\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{5e555b097067a556915552bbf8cff1cd}
+      \strng{fullhash}{0ef5ea8e9a7f80c56740ad5e560df50a}
+      \strng{bibnamehash}{0ef5ea8e9a7f80c56740ad5e560df50a}
+      \strng{authorbibnamehash}{0ef5ea8e9a7f80c56740ad5e560df50a}
+      \strng{authornamehash}{5e555b097067a556915552bbf8cff1cd}
+      \strng{authorfullhash}{0ef5ea8e9a7f80c56740ad5e560df50a}
+      \field{sortinit}{L}
+      \field{sortinithash}{7c47d417cecb1f4bd38d1825c427a61a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Interpreting predictions from tree ensemble methods such as gradient boosting machines and random forests is important, yet feature attribution for trees is often heuristic and not individualized for each prediction. Here we show that popular feature attribution methods are inconsistent, meaning they can lower a feature's assigned importance when the true impact of that feature actually increases. This is a fundamental problem that casts doubt on any comparison between features. To address it we turn to recent applications of game theory and develop fast exact tree solutions for SHAP (SHapley Additive exPlanation) values, which are the unique consistent and locally accurate attribution values. We then extend SHAP values to interaction effects and define SHAP interaction values. We propose a rich visualization of individualized feature attributions that improves over classic attribution summaries and partial dependence plots, and a unique "supervised" clustering (clustering based on feature attributions). We demonstrate better agreement with human intuition through a user study, exponential improvements in run time, improved clustering performance, and better identification of influential features. An implementation of our algorithm has also been merged into XGBoost and LightGBM, see http://github.com/slundberg/shap for details.}
+      \field{day}{12}
+      \field{eprintclass}{cs.LG}
+      \field{eprinttype}{arXiv}
+      \field{month}{2}
+      \field{title}{Consistent Individualized Feature Attribution for Tree Ensembles}
+      \field{year}{2018}
+      \field{dateera}{ce}
+      \verb{eprint}
+      \verb 1802.03888v3
+      \endverb
+      \verb{file}
+      \verb :http\://arxiv.org/pdf/1802.03888v3:PDF
+      \endverb
+      \keyw{cs.LG,stat.ML}
+    \endentry
+    \entry{Lundberg2017}{article}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=b659ebc88023a12a732b4db9afdede3d}{%
+           family={Lundberg},
+           familyi={L\bibinitperiod},
+           given={Scott},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=ee964079d93879aaef2382a5fff343d3}{%
+           family={Lee},
+           familyi={L\bibinitperiod},
+           given={Su-In},
+           giveni={S\bibinithyphendelim I\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{92d799a71ca7ae2c3ebec3ec87e85189}
+      \strng{fullhash}{92d799a71ca7ae2c3ebec3ec87e85189}
+      \strng{bibnamehash}{92d799a71ca7ae2c3ebec3ec87e85189}
+      \strng{authorbibnamehash}{92d799a71ca7ae2c3ebec3ec87e85189}
+      \strng{authornamehash}{92d799a71ca7ae2c3ebec3ec87e85189}
+      \strng{authorfullhash}{92d799a71ca7ae2c3ebec3ec87e85189}
+      \field{sortinit}{L}
+      \field{sortinithash}{7c47d417cecb1f4bd38d1825c427a61a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Understanding why a model makes a certain prediction can be as crucial as the prediction's accuracy in many applications. However, the highest accuracy for large modern datasets is often achieved by complex models that even experts struggle to interpret, such as ensemble or deep learning models, creating a tension between accuracy and interpretability. In response, various methods have recently been proposed to help users interpret the predictions of complex models, but it is often unclear how these methods are related and when one method is preferable over another. To address this problem, we present a unified framework for interpreting predictions, SHAP (SHapley Additive exPlanations). SHAP assigns each feature an importance value for a particular prediction. Its novel components include: (1) the identification of a new class of additive feature importance measures, and (2) theoretical results showing there is a unique solution in this class with a set of desirable properties. The new class unifies six existing methods, notable because several recent methods in the class lack the proposed desirable properties. Based on insights from this unification, we present new methods that show improved computational performance and/or better consistency with human intuition than previous approaches.}
+      \field{day}{22}
+      \field{eprintclass}{cs.AI}
+      \field{eprinttype}{arXiv}
+      \field{month}{5}
+      \field{title}{A Unified Approach to Interpreting Model Predictions}
+      \field{year}{2017}
+      \field{dateera}{ce}
+      \verb{eprint}
+      \verb 1705.07874v2
+      \endverb
+      \verb{file}
+      \verb :http\://arxiv.org/pdf/1705.07874v2:PDF
+      \endverb
+      \keyw{cs.AI,cs.LG,stat.ML}
+    \endentry
+    \entry{Mason1999}{article}{}
+      \name{author}{4}{}{%
+        {{un=0,uniquepart=base,hash=23cdade6e24b261453dc8177fe5c6be9}{%
+           family={Mason},
+           familyi={M\bibinitperiod},
+           given={Llew},
+           giveni={L\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=5f0575a363e95b28a935fc4c0fc0dfc5}{%
+           family={Baxter},
+           familyi={B\bibinitperiod},
+           given={Jonathan},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=b8fd5618f4e1de62f22a3b78fbc3d5c5}{%
+           family={Bartlett},
+           familyi={B\bibinitperiod},
+           given={Peter},
+           giveni={P\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=6498f06d62ae7c2da9f7e022adac3fcf}{%
+           family={Frean},
+           familyi={F\bibinitperiod},
+           given={Marcus},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{85de66ac943ec79a6ece50dd6098c45d}
+      \strng{fullhash}{39a1a8251e0d75a0712aebc2f6c22d0b}
+      \strng{bibnamehash}{39a1a8251e0d75a0712aebc2f6c22d0b}
+      \strng{authorbibnamehash}{39a1a8251e0d75a0712aebc2f6c22d0b}
+      \strng{authornamehash}{85de66ac943ec79a6ece50dd6098c45d}
+      \strng{authorfullhash}{39a1a8251e0d75a0712aebc2f6c22d0b}
+      \field{sortinit}{M}
+      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{month}{01}
+      \field{title}{Boosting Algorithms as Gradient Descent.}
+      \field{year}{1999}
+      \field{pages}{512\bibrangedash 518}
+      \range{pages}{7}
+    \endentry
+    \entry{MicciBarreca2001}{article}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=538b8419770c34ed0011d703fec7727f}{%
+           family={Micci-Barreca},
+           familyi={M\bibinithyphendelim B\bibinitperiod},
+           given={Daniele},
+           giveni={D\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{location}{1}{%
+        {New York, NY, USA}%
+      }
+      \list{publisher}{1}{%
+        {Association for Computing Machinery}%
+      }
+      \strng{namehash}{538b8419770c34ed0011d703fec7727f}
+      \strng{fullhash}{538b8419770c34ed0011d703fec7727f}
+      \strng{bibnamehash}{538b8419770c34ed0011d703fec7727f}
+      \strng{authorbibnamehash}{538b8419770c34ed0011d703fec7727f}
+      \strng{authornamehash}{538b8419770c34ed0011d703fec7727f}
+      \strng{authorfullhash}{538b8419770c34ed0011d703fec7727f}
+      \field{sortinit}{M}
+      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Categorical data fields characterized by a large number of distinct values represent a serious challenge for many classification and regression algorithms that require numerical inputs. On the other hand, these types of data fields are quite common in real-world data mining applications and often contain potentially relevant information that is difficult to represent for modeling purposes.This paper presents a simple preprocessing scheme for high-cardinality categorical data that allows this class of attributes to be used in predictive models such as neural networks, linear and logistic regression. The proposed method is based on a well-established statistical method (empirical Bayes) that is straightforward to implement as an in-database procedure. Furthermore, for categorical attributes with an inherent hierarchical structure, like ZIP codes, the preprocessing scheme can directly leverage the hierarchy by blending statistics at the various levels of aggregation.While the statistical methods discussed in this paper were first introduced in the mid 1950's, the use of these methods as a preprocessing step for complex models, like neural networks, has not been previously discussed in any literature.}
+      \field{issn}{1931-0145}
+      \field{journaltitle}{SIGKDD Explor. Newsl.}
+      \field{month}{7}
+      \field{number}{1}
+      \field{title}{A Preprocessing Scheme for High-Cardinality Categorical Attributes in Classification and Prediction Problems}
+      \field{volume}{3}
+      \field{year}{2001}
+      \field{pages}{27\bibrangedash 32}
+      \range{pages}{6}
+      \verb{doi}
+      \verb 10.1145/507533.507538
+      \endverb
+      \verb{urlraw}
+      \verb https://doi.org/10.1145/507533.507538
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.1145/507533.507538
+      \endverb
+      \keyw{neural networks,hierarchical attributes,categorical attributes,empirical bayes,predictive models}
+    \endentry
+    \entry{Mignot2015}{inbook}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=34cd3d527b9dfc575e135ffeae9067df}{%
+           family={Mignot},
+           familyi={M\bibinitperiod},
+           given={Jean-François},
+           giveni={J\bibinithyphendelim F\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Springer International Publishing}%
+      }
+      \strng{namehash}{34cd3d527b9dfc575e135ffeae9067df}
+      \strng{fullhash}{34cd3d527b9dfc575e135ffeae9067df}
+      \strng{bibnamehash}{34cd3d527b9dfc575e135ffeae9067df}
+      \strng{authorbibnamehash}{34cd3d527b9dfc575e135ffeae9067df}
+      \strng{authornamehash}{34cd3d527b9dfc575e135ffeae9067df}
+      \strng{authorfullhash}{34cd3d527b9dfc575e135ffeae9067df}
+      \field{sortinit}{M}
+      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{The Economics of Professional Road Cycling}
+      \field{month}{9}
+      \field{title}{The History of Professional Road Cycling}
+      \field{year}{2015}
+      \field{pages}{7\bibrangedash 31}
+      \range{pages}{25}
+      \verb{doi}
+      \verb 10.1007/978-3-319-22312-4_2
+      \endverb
+    \endentry
+    \entry{Passfield2016}{article}{}
+      \name{author}{5}{}{%
+        {{un=0,uniquepart=base,hash=eaba074290dc74973cceb1c8275609cb}{%
+           family={Passfield},
+           familyi={P\bibinitperiod},
+           given={L.},
+           giveni={L\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=e4786f146b0c1b1fe1b2b7b6e50a1e8a}{%
+           family={Hopker},
+           familyi={H\bibinitperiod},
+           given={JG.},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=abcfc79f781bea61ad2958b09f846cfa}{%
+           family={Jobson},
+           familyi={J\bibinitperiod},
+           given={S.},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=7fd4c3eb1e8e490acfa75ed4766bc391}{%
+           family={Friel},
+           familyi={F\bibinitperiod},
+           given={D.},
+           giveni={D\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=673f84895eebfdf3e4f38a2184795e25}{%
+           family={Zabala},
+           familyi={Z\bibinitperiod},
+           given={M.},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Informa {UK} Limited}%
+      }
+      \strng{namehash}{01b0848034165fcb17199bcec6fa4da5}
+      \strng{fullhash}{8176f78866428dac683d5b17fb5d54d5}
+      \strng{bibnamehash}{8176f78866428dac683d5b17fb5d54d5}
+      \strng{authorbibnamehash}{8176f78866428dac683d5b17fb5d54d5}
+      \strng{authornamehash}{01b0848034165fcb17199bcec6fa4da5}
+      \strng{authorfullhash}{8176f78866428dac683d5b17fb5d54d5}
+      \field{sortinit}{P}
+      \field{sortinithash}{ff3bcf24f47321b42cb156c2cc8a8422}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{month}{8}
+      \field{number}{14}
+      \field{title}{Knowledge is power: Issues of measuring training and performance in cycling}
+      \field{volume}{35}
+      \field{year}{2016}
+      \field{pages}{1426\bibrangedash 1434}
+      \range{pages}{9}
+      \verb{doi}
+      \verb 10.1080/02640414.2016.1215504
+      \endverb
+    \endentry
+    \entry{Prokhorenkova2019}{misc}{}
+      \name{author}{5}{}{%
+        {{un=0,uniquepart=base,hash=75d85fbaf5e44febf90b390cb205c49e}{%
+           family={Prokhorenkova},
+           familyi={P\bibinitperiod},
+           given={Liudmila},
+           giveni={L\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=d99ea4ed468e2d3f8bc4082b7d308161}{%
+           family={Gusev},
+           familyi={G\bibinitperiod},
+           given={Gleb},
+           giveni={G\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=4eea157d768ad9f7d675c1cb1624b822}{%
+           family={Vorobev},
+           familyi={V\bibinitperiod},
+           given={Aleksandr},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=a2bbc57c5fa93135342ee3c846b63db3}{%
+           family={Dorogush},
+           familyi={D\bibinitperiod},
+           given={Anna\bibnamedelima Veronika},
+           giveni={A\bibinitperiod\bibinitdelim V\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=b0bbfa15913cf76eff37e68538d3927e}{%
+           family={Gulin},
+           familyi={G\bibinitperiod},
+           given={Andrey},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{bf2200e049515471bef98bbe4ddd078a}
+      \strng{fullhash}{be3384044cde3b920a17c00545fb90a0}
+      \strng{bibnamehash}{be3384044cde3b920a17c00545fb90a0}
+      \strng{authorbibnamehash}{be3384044cde3b920a17c00545fb90a0}
+      \strng{authornamehash}{bf2200e049515471bef98bbe4ddd078a}
+      \strng{authorfullhash}{be3384044cde3b920a17c00545fb90a0}
+      \field{sortinit}{P}
+      \field{sortinithash}{ff3bcf24f47321b42cb156c2cc8a8422}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{eprintclass}{cs.LG}
+      \field{eprinttype}{arXiv}
+      \field{title}{CatBoost: unbiased boosting with categorical features}
+      \field{year}{2019}
+      \verb{eprint}
+      \verb 1706.09516
+      \endverb
+    \endentry
+    \entry{Raghunathan01}{misc}{}
+      \name{author}{4}{}{%
+        {{un=0,uniquepart=base,hash=8d4b262e119854d9c25c564298c128cc}{%
+           family={Raghunathan},
+           familyi={R\bibinitperiod},
+           given={Trivellore\bibnamedelima E.},
+           giveni={T\bibinitperiod\bibinitdelim E\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=f3bfebc3812651527806b5a0e5a943f4}{%
+           family={Lepkowski},
+           familyi={L\bibinitperiod},
+           given={James\bibnamedelima M.},
+           giveni={J\bibinitperiod\bibinitdelim M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=d35d3fe9566ebff6320f119dedd5ae07}{%
+           family={Hoewyk},
+           familyi={H\bibinitperiod},
+           given={John\bibnamedelima Van},
+           giveni={J\bibinitperiod\bibinitdelim V\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=6ec53fb577544ab855137780a4a223e9}{%
+           family={Solenberger},
+           familyi={S\bibinitperiod},
+           given={Peter},
+           giveni={P\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{80dc0a7de9e5c597cc962bcc485d4633}
+      \strng{fullhash}{675c7e3b0f6de1817f1fb0afba5d6ce9}
+      \strng{bibnamehash}{675c7e3b0f6de1817f1fb0afba5d6ce9}
+      \strng{authorbibnamehash}{675c7e3b0f6de1817f1fb0afba5d6ce9}
+      \strng{authornamehash}{80dc0a7de9e5c597cc962bcc485d4633}
+      \strng{authorfullhash}{675c7e3b0f6de1817f1fb0afba5d6ce9}
+      \field{sortinit}{R}
+      \field{sortinithash}{5e1c39a9d46ffb6bebd8f801023a9486}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{A multivariate technique for multiply imputing missing values using a sequence of regression models. Survey Methodology 27}
+      \field{year}{2001}
+    \endentry
+    \entry{Ranjan2011}{article}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=7dd96806e9081973168dd88b42301e86}{%
+           family={Ranjan},
+           familyi={R\bibinitperiod},
+           given={Pritam},
+           giveni={P\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=89ff163015623139fb1dcda3869749a4}{%
+           family={Haynes},
+           familyi={H\bibinitperiod},
+           given={Ronald},
+           giveni={R\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=c16d3d33dbcea1f33c183de898019223}{%
+           family={Karsten},
+           familyi={K\bibinitperiod},
+           given={Richard},
+           giveni={R\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Informa {UK} Limited}%
+      }
+      \strng{namehash}{644e7242626bc3dc355e6e06f5bdea17}
+      \strng{fullhash}{f27ff43d68e6d12a14a8ae3daee10909}
+      \strng{bibnamehash}{f27ff43d68e6d12a14a8ae3daee10909}
+      \strng{authorbibnamehash}{f27ff43d68e6d12a14a8ae3daee10909}
+      \strng{authornamehash}{644e7242626bc3dc355e6e06f5bdea17}
+      \strng{authorfullhash}{f27ff43d68e6d12a14a8ae3daee10909}
+      \field{sortinit}{R}
+      \field{sortinithash}{5e1c39a9d46ffb6bebd8f801023a9486}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Technometrics}
+      \field{month}{11}
+      \field{number}{4}
+      \field{title}{A Computationally Stable Approach to Gaussian Process Interpolation of Deterministic Computer Simulation Data}
+      \field{volume}{53}
+      \field{year}{2011}
+      \field{pages}{366\bibrangedash 378}
+      \range{pages}{13}
+      \verb{doi}
+      \verb 10.1198/tech.2011.09141
+      \endverb
+    \endentry
+    \entry{Shahhosseini2019}{article}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=663799e59ea6a62137f5a4f2bf120cea}{%
+           family={Shahhosseini},
+           familyi={S\bibinitperiod},
+           given={Mohsen},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=1f29fc91078c567722522cd878da9130}{%
+           family={Hu},
+           familyi={H\bibinitperiod},
+           given={Guiping},
+           giveni={G\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=c7225c8adf8195ef056d44ae3f589af2}{%
+           family={Pham},
+           familyi={P\bibinitperiod},
+           given={Hieu},
+           giveni={H\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{1eeb613f391d2fba192ba6721deb1466}
+      \strng{fullhash}{008e833be727a2ac51995d20c2633488}
+      \strng{bibnamehash}{008e833be727a2ac51995d20c2633488}
+      \strng{authorbibnamehash}{008e833be727a2ac51995d20c2633488}
+      \strng{authornamehash}{1eeb613f391d2fba192ba6721deb1466}
+      \strng{authorfullhash}{008e833be727a2ac51995d20c2633488}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Aggregating multiple learners through an ensemble of models aim to make better predictions by capturing the underlying distribution of the data more accurately. Different ensembling methods, such as bagging, boosting, and stacking/blending, have been studied and adopted extensively in research and practice. While bagging and boosting focus more on reducing variance and bias, respectively, stacking approaches target both by finding the optimal way to combine base learners. In stacking with the weighted average, ensembles are created from weighted averages of multiple base learners. It is known that tuning hyperparameters of each base learner inside the ensemble weight optimization process can produce better performing ensembles. To this end, an optimization-based nested algorithm that considers tuning hyperparameters as well as finding the optimal weights to combine ensembles (Generalized Weighted Ensemble with Internally Tuned Hyperparameters (GEM-ITH)) is designed. Besides, Bayesian search was used to speed-up the optimizing process, and a heuristic was implemented to generate diverse and well-performing base learners. The algorithm is shown to be generalizable to real data sets through analyses with ten publicly available data sets.}
+      \field{day}{14}
+      \field{eprintclass}{stat.ML}
+      \field{eprinttype}{arXiv}
+      \field{month}{8}
+      \field{title}{Optimizing Ensemble Weights and Hyperparameters of Machine Learning Models for Regression Problems}
+      \field{year}{2019}
+      \field{dateera}{ce}
+      \verb{eprint}
+      \verb 1908.05287v6
+      \endverb
+      \verb{file}
+      \verb :http\://arxiv.org/pdf/1908.05287v6:PDF
+      \endverb
+      \keyw{stat.ML,cs.LG,stat.ME}
+    \endentry
+    \entry{Shapley1952}{book}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=aa2b96ffd25f090ad898c0022f7efa12}{%
+           family={Shapley},
+           familyi={S\bibinitperiod},
+           given={Lloyd\bibnamedelima S.},
+           giveni={L\bibinitperiod\bibinitdelim S\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{location}{1}{%
+        {Santa Monica, CA}%
+      }
+      \list{publisher}{1}{%
+        {RAND Corporation}%
+      }
+      \strng{namehash}{aa2b96ffd25f090ad898c0022f7efa12}
+      \strng{fullhash}{aa2b96ffd25f090ad898c0022f7efa12}
+      \strng{bibnamehash}{aa2b96ffd25f090ad898c0022f7efa12}
+      \strng{authorbibnamehash}{aa2b96ffd25f090ad898c0022f7efa12}
+      \strng{authornamehash}{aa2b96ffd25f090ad898c0022f7efa12}
+      \strng{authorfullhash}{aa2b96ffd25f090ad898c0022f7efa12}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{A Value for N-Person Games}
+      \field{year}{1952}
+      \verb{doi}
+      \verb 10.7249/P0295
+      \endverb
+    \endentry
+    \entry{Snoek2012}{article}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=b9d827c94405733235f3f953a0691fd5}{%
+           family={Snoek},
+           familyi={S\bibinitperiod},
+           given={Jasper},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=42a970b0a0f1ed24b23064370cc9392f}{%
+           family={Larochelle},
+           familyi={L\bibinitperiod},
+           given={Hugo},
+           giveni={H\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=c1552be0c6aa9c6e0fd91a130a682853}{%
+           family={Adams},
+           familyi={A\bibinitperiod},
+           given={Ryan\bibnamedelima P.},
+           giveni={R\bibinitperiod\bibinitdelim P\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{ed6793cb5ec5e5b336b96236df5b354f}
+      \strng{fullhash}{8ec3cd03032d713954b0895ecd0d8292}
+      \strng{bibnamehash}{8ec3cd03032d713954b0895ecd0d8292}
+      \strng{authorbibnamehash}{8ec3cd03032d713954b0895ecd0d8292}
+      \strng{authornamehash}{ed6793cb5ec5e5b336b96236df5b354f}
+      \strng{authorfullhash}{8ec3cd03032d713954b0895ecd0d8292}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Machine learning algorithms frequently require careful tuning of model hyperparameters, regularization terms, and optimization parameters. Unfortunately, this tuning is often a "black art" that requires expert experience, unwritten rules of thumb, or sometimes brute-force search. Much more appealing is the idea of developing automatic approaches which can optimize the performance of a given learning algorithm to the task at hand. In this work, we consider the automatic tuning problem within the framework of Bayesian optimization, in which a learning algorithm's generalization performance is modeled as a sample from a Gaussian process (GP). The tractable posterior distribution induced by the GP leads to efficient use of the information gathered by previous experiments, enabling optimal choices about what parameters to try next. Here we show how the effects of the Gaussian process prior and the associated inference procedure can have a large impact on the success or failure of Bayesian optimization. We show that thoughtful choices can lead to results that exceed expert-level performance in tuning machine learning algorithms. We also describe new algorithms that take into account the variable cost (duration) of learning experiments and that can leverage the presence of multiple cores for parallel experimentation. We show that these proposed algorithms improve on previous automatic procedures and can reach or surpass human expert-level optimization on a diverse set of contemporary algorithms including latent Dirichlet allocation, structured SVMs and convolutional neural networks.}
+      \field{day}{13}
+      \field{eprintclass}{stat.ML}
+      \field{eprinttype}{arXiv}
+      \field{month}{6}
+      \field{title}{Practical Bayesian Optimization of Machine Learning Algorithms}
+      \field{year}{2012}
+      \field{dateera}{ce}
+      \verb{eprint}
+      \verb 1206.2944v2
+      \endverb
+      \verb{file}
+      \verb :http\://arxiv.org/pdf/1206.2944v2:PDF
+      \endverb
+      \keyw{stat.ML,cs.LG}
+    \endentry
+    \entry{Strnad2015}{article}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=8d4c1a164af0cf52827590c1fb9c5cb8}{%
+           family={Strnad},
+           familyi={S\bibinitperiod},
+           given={Damjan},
+           giveni={D\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=1179b3631205f84a27fe5f8140f97cc6}{%
+           family={Nerat},
+           familyi={N\bibinitperiod},
+           given={Andrej},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=0e02ce357530df89e13826bdd87746b8}{%
+           family={Kohek},
+           familyi={K\bibinitperiod},
+           given={Štefan},
+           giveni={Š\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{2}{%
+        {Springer Science}%
+        {Business Media {LLC}}%
+      }
+      \strng{namehash}{6b746b230db260539eb87ea1e169aa2d}
+      \strng{fullhash}{8582221b3d4fadb510a8ef2096c887b6}
+      \strng{bibnamehash}{8582221b3d4fadb510a8ef2096c887b6}
+      \strng{authorbibnamehash}{8582221b3d4fadb510a8ef2096c887b6}
+      \strng{authornamehash}{6b746b230db260539eb87ea1e169aa2d}
+      \strng{authorfullhash}{8582221b3d4fadb510a8ef2096c887b6}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{month}{9}
+      \field{number}{2}
+      \field{title}{Neural network models for group behavior prediction: a case of soccer match attendance}
+      \field{volume}{28}
+      \field{year}{2015}
+      \field{pages}{287\bibrangedash 300}
+      \range{pages}{14}
+      \verb{doi}
+      \verb 10.1007/s00521-015-2056-z
+      \endverb
+    \endentry
+    \entry{Templ2011}{article}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=faaed83ab21bd48aa70346a9a1a0fa99}{%
+           family={Templ},
+           familyi={T\bibinitperiod},
+           given={Matthias},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=f1057b18840bc38e2470bda6cba6d55e}{%
+           family={Kowarik},
+           familyi={K\bibinitperiod},
+           given={Alexander},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=440840cf1a958f86ce96afdf0ed33447}{%
+           family={Filzmoser},
+           familyi={F\bibinitperiod},
+           given={Peter},
+           giveni={P\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Elsevier {BV}}%
+      }
+      \strng{namehash}{4087a0205115694fe5d10e86a4aa6f74}
+      \strng{fullhash}{ba0b29634f36d71c8158f096822e21a7}
+      \strng{bibnamehash}{ba0b29634f36d71c8158f096822e21a7}
+      \strng{authorbibnamehash}{ba0b29634f36d71c8158f096822e21a7}
+      \strng{authornamehash}{4087a0205115694fe5d10e86a4aa6f74}
+      \strng{authorfullhash}{ba0b29634f36d71c8158f096822e21a7}
+      \field{sortinit}{T}
+      \field{sortinithash}{9af77f0292593c26bde9a56e688eaee9}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Computational Statistics {\&} Data Analysis}
+      \field{month}{10}
+      \field{number}{10}
+      \field{title}{Iterative stepwise regression imputation using standard and robust methods}
+      \field{volume}{55}
+      \field{year}{2011}
+      \field{pages}{2793\bibrangedash 2806}
+      \range{pages}{14}
+      \verb{doi}
+      \verb 10.1016/j.csda.2011.04.012
+      \endverb
+    \endentry
+    \entry{Tofallis2015}{article}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=3aef072edc2ab0e199fa84b5d16b0b72}{%
+           family={Tofallis},
+           familyi={T\bibinitperiod},
+           given={Chris},
+           giveni={C\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Informa {UK} Limited}%
+      }
+      \strng{namehash}{3aef072edc2ab0e199fa84b5d16b0b72}
+      \strng{fullhash}{3aef072edc2ab0e199fa84b5d16b0b72}
+      \strng{bibnamehash}{3aef072edc2ab0e199fa84b5d16b0b72}
+      \strng{authorbibnamehash}{3aef072edc2ab0e199fa84b5d16b0b72}
+      \strng{authornamehash}{3aef072edc2ab0e199fa84b5d16b0b72}
+      \strng{authorfullhash}{3aef072edc2ab0e199fa84b5d16b0b72}
+      \field{sortinit}{T}
+      \field{sortinithash}{9af77f0292593c26bde9a56e688eaee9}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{month}{8}
+      \field{number}{8}
+      \field{title}{A better measure of relative prediction accuracy for model selection and model estimation}
+      \field{volume}{66}
+      \field{year}{2015}
+      \field{pages}{1352\bibrangedash 1362}
+      \range{pages}{11}
+      \verb{doi}
+      \verb 10.1057/jors.2014.103
+      \endverb
+    \endentry
+    \entry{Wang2020}{article}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=e88500bd6ca50746707a22554761b61a}{%
+           family={Wang},
+           familyi={W\bibinitperiod},
+           given={Xiaogang},
+           giveni={X\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=4b09b3d48e39b8ba30377afaf3fbd08b}{%
+           family={Zhai},
+           familyi={Z\bibinitperiod},
+           given={Shichen},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=41bbc28017ca14d4a78d9aa48f080855}{%
+           family={Chen},
+           familyi={C\bibinitperiod},
+           given={Jui-Le},
+           giveni={J\bibinithyphendelim L\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {IEEE}%
+      }
+      \strng{namehash}{1b8122f0a4328692990e08240c9135b4}
+      \strng{fullhash}{f245edd53c3e18bcc150b68fd1264c1f}
+      \strng{bibnamehash}{f245edd53c3e18bcc150b68fd1264c1f}
+      \strng{authorbibnamehash}{f245edd53c3e18bcc150b68fd1264c1f}
+      \strng{authornamehash}{1b8122f0a4328692990e08240c9135b4}
+      \strng{authorfullhash}{f245edd53c3e18bcc150b68fd1264c1f}
+      \field{sortinit}{W}
+      \field{sortinithash}{4315d78024d0cea9b57a0c6f0e35ed0d}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{2020 8th International Conference on Orange Technology ({ICOT})}
+      \field{month}{12}
+      \field{title}{Research on House Price Forecast Based on Hyper Parameter Optimization Gradient Boosting Regression Model}
+      \field{year}{2020}
+      \verb{doi}
+      \verb 10.1109/icot51877.2020.9468726
+      \endverb
+    \endentry
+    \entry{Wilson2018}{article}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=97cd4c8d948857053d7cf14d2d166723}{%
+           family={Wilson},
+           familyi={W\bibinitperiod},
+           given={James\bibnamedelima T.},
+           giveni={J\bibinitperiod\bibinitdelim T\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=528d4af87fd2ecf5fb8a22db913ce088}{%
+           family={Hutter},
+           familyi={H\bibinitperiod},
+           given={Frank},
+           giveni={F\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=f9733f0a0e8718b4f6e95508bc8def08}{%
+           family={Deisenroth},
+           familyi={D\bibinitperiod},
+           given={Marc\bibnamedelima Peter},
+           giveni={M\bibinitperiod\bibinitdelim P\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{53e444c0629e5cdf01a22e90bf83e891}
+      \strng{fullhash}{3e33618cd6e2118772df1704d799138b}
+      \strng{bibnamehash}{3e33618cd6e2118772df1704d799138b}
+      \strng{authorbibnamehash}{3e33618cd6e2118772df1704d799138b}
+      \strng{authornamehash}{53e444c0629e5cdf01a22e90bf83e891}
+      \strng{authorfullhash}{3e33618cd6e2118772df1704d799138b}
+      \field{sortinit}{W}
+      \field{sortinithash}{4315d78024d0cea9b57a0c6f0e35ed0d}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Bayesian optimization is a sample-efficient approach to global optimization that relies on theoretically motivated value heuristics (acquisition functions) to guide its search process. Fully maximizing acquisition functions produces the Bayes' decision rule, but this ideal is difficult to achieve since these functions are frequently non-trivial to optimize. This statement is especially true when evaluating queries in parallel, where acquisition functions are routinely non-convex, high-dimensional, and intractable. We first show that acquisition functions estimated via Monte Carlo integration are consistently amenable to gradient-based optimization. Subsequently, we identify a common family of acquisition functions, including EI and UCB, whose properties not only facilitate but justify use of greedy approaches for their maximization.}
+      \field{day}{25}
+      \field{eprintclass}{stat.ML}
+      \field{eprinttype}{arXiv}
+      \field{month}{5}
+      \field{title}{Maximizing acquisition functions for Bayesian optimization}
+      \field{year}{2018}
+      \field{dateera}{ce}
+      \verb{eprint}
+      \verb 1805.10196v2
+      \endverb
+      \verb{file}
+      \verb :http\://arxiv.org/pdf/1805.10196v2:PDF
+      \endverb
+      \keyw{stat.ML,cs.LG}
+    \endentry
+  \enddatalist
+\endrefsection
+\endinput
+

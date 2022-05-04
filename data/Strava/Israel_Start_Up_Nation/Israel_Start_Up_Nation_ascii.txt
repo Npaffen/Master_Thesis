@@ -1,0 +1,18 @@
+2305481;Jenthe Biermans
+3490359;Alexander Cataford
+20904837;Davide Cimolai
+505408;Alex Dowsett
+384548;André Greipel
+593390;Ben Hermans
+10847439;Hugo Hofstetter
+19150197;Reto Hollenstein
+367688;Travis McCabe
+4748635;Guy Niv
+1703812;James Piccoli
+2592883;Nils Politt
+2469093;Mihkel Räim
+5915515;Alexis Renard
+1059089;Patrick Schelling
+387215;Tom Van Asbroeck
+2109406;Mads Würtz Schmidt
+2557063;Rick Zabel

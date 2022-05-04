@@ -1,0 +1,9 @@
+.Rproj.user
+.Rhistory
+.RData
+.Ruserdata
+.Rproj.user/shared/notebooks/paths
+*:pdf
+*.jar
+/catboost_info
+lightgbm_5fold*.csv

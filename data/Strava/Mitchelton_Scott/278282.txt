@@ -1,0 +1,6 @@
+date|distance|mov_time|elevation|relativeEffort|avg_power_weig|work_total|training_load|intensity|estAvgPower|energyOutput|avg_speed|max_speed|avg_cadence|max_cadence|avg_heartRate|max_heartRate|avg_power|max_power|avg_calories|avg_temperature|avg_elap_time|bicycle_model|url
+05.01.2018|33.3|01:00:46|412|0|0|0|0||0|0|32.9|75.6|87|130|0|0|0|0|||01:03:51|Zwift|https://www.strava.com/activities/1342008048
+04.01.2018|69.9|02:02:56|1185|0|0|0|0||0|0|34.1|82.4|81|107|0|0|0|0|||02:11:38|Zwift|https://www.strava.com/activities/1340481778
+15.03.2020|14.88|00:34:48|586|0|262|494|0||0|0|25.7|82.1|78|106|0|0|236|409|550||00:35:18|Zwift|https://www.strava.com/activities/3184490321
+14.03.2020|29.68|00:54:11|671|0|225|694|0||0|0|32.9|86|79|148|0|0|213|520|774||00:54:11|Zwift|https://www.strava.com/activities/3181331659
+08.03.2020|30.18|00:59:33|255|0|0|0|0||0|0|30.4|63|81|104|0|0|0|0|||01:02:04|Zwift|https://www.strava.com/activities/3164746607

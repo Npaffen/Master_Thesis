@@ -1,0 +1,11 @@
+date|distance|mov_time|elevation|relativeEffort|avg_power_weig|work_total|training_load|intensity|estAvgPower|energyOutput|avg_speed|max_speed|avg_cadence|max_cadence|avg_heartRate|max_heartRate|avg_power|max_power|avg_calories|avg_temperature|avg_elap_time|bicycle_model|url
+1/9/2018|34.85|01:00:10|266|0|247|884|37|61%|0|0|34.8|79.6|85|108|118|130|245|466|986||01:00:45|Zwift|https://www.strava.com/activities/1348846114
+1/26/2018|169.85|04:24:38|2351|0|301|4346|247|74%|0|0|38.5|80.6|89|131|0|0|274|1292|4,845|31|04:30:42|SRM PC8|https://www.strava.com/activities/1376503946
+5/29/2018|173.08|03:36:53|74|0|0|0|0||0|0|47.9|68.4|90|120|0|0|0|0||24|03:37:48|SRM PC8|https://www.strava.com/activities/1604197661
+6/24/2018|223.29|05:01:27|1944|0|0|0|0||0|0|44.4|77|89|123|0|0|0|0||22|05:02:53|SRM PC8|https://www.strava.com/activities/1659955430
+6/10/2018|218.93|05:17:07|2146|0|298|4366|288|74%|0|0|41.4|95|88|130|0|0|229|1227|4,868|25|05:18:16|SRM PC8|https://www.strava.com/activities/1630479493
+8/4/2018|61.39|01:45:28|75|0|0|0|0||0|0|34.9|54|90|114|0|0|0|0||28|01:57:08|SRM PC8|https://www.strava.com/activities/1748530122
+9/22/2018|206.88|05:01:16|1930|0|0|0|0||379|6848|41.2|83.5|0|0|0|0|0|0|7,505|13|05:10:11|SRM PC8|https://www.strava.com/activities/1858973799
+9/12/2018|214.31|05:38:57|2906|0|0|0|0||352|7167|37.9|87.1|0|0|0|0|0|0|7,992|25|05:38:57|SRM PC8|https://www.strava.com/activities/1838593733
+9/9/2018|170.98|04:46:55|3326|0|0|0|0||376|6471|35.8|111.6|0|0|0|0|0|0|7,215|19|04:50:05|SRM PC8|https://www.strava.com/activities/1831236687
+9/7/2018|199.96|05:03:59|2651|0|0|0|0||405|7394|39.5|78.5|0|0|0|0|0|0|8,245|24|05:05:13|SRM PC8|https://www.strava.com/activities/1826055025

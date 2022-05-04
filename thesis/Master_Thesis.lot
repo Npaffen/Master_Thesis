@@ -1,0 +1,12 @@
+\babel@toc {english}{}\relax 
+\babel@toc {english}{}\relax 
+\contentsline {table}{\numberline {1}{\ignorespaces Variable list of the Strava dataset\relax }}{6}{table.caption.7}%
+\contentsline {table}{\numberline {2}{\ignorespaces \textit {Orderd Target Statistics Example}\relax }}{24}{table.caption.15}%
+\contentsline {table}{\numberline {3}{\ignorespaces \textit {Hyperparameter tuned for each method}\relax }}{31}{table.caption.18}%
+\contentsline {table}{\numberline {4}{\ignorespaces \textit {Model presentation for the Strava dataset}\relax }}{36}{table.caption.20}%
+\contentsline {table}{\numberline {5}{\ignorespaces \textit {5-fold CV RMSE results for all models predicting the average power }\relax }}{37}{table.caption.22}%
+\contentsline {table}{\numberline {6}{\ignorespaces \textit {Hyperparameter Results of the Bayesian HPO of the best model }\relax }}{50}{table.caption.33}%
+\contentsline {table}{\numberline {7}{\ignorespaces \textit {OOS RMSE results for all models predicting the average power without $work\_load$ }\relax }}{51}{table.caption.35}%
+\contentsline {table}{\numberline {8}{\ignorespaces \textit {Repartition of $X_1$ and $X_2$ }\relax }}{51}{table.caption.37}%
+\contentsline {table}{\numberline {9}{\ignorespaces \textit {Hyperparameter results of the Bayesian HPO of the best model }\relax }}{58}{table.caption.41}%
+\contentsline {table}{\numberline {10}{\ignorespaces \textit {SHAP Value calculation with bias }\relax }}{59}{table.caption.43}%

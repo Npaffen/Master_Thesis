@@ -1,0 +1,2 @@
+date|distance|mov_time|elevation|relativeEffort|avg_power_weig|work_total|training_load|intensity|estAvgPower|energyOutput|avg_speed|max_speed|avg_cadence|max_cadence|avg_heartRate|max_heartRate|avg_power|max_power|avg_calories|avg_temperature|avg_elap_time|bicycle_model|url
+loaded urls in 1.03:15:18.1952501

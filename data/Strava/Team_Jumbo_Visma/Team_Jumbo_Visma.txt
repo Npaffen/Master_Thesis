@@ -1,0 +1,17 @@
+https://www.strava.com/athletes/880187;BENNETT George
+https://www.strava.com/athletes/1993533;BOUWMAN Koen
+https://www.strava.com/athletes/4049155;DE PLUS Laurens
+https://www.strava.com/athletes/1563189;EENKHOORN Pascal
+https://www.strava.com/athletes/2885876;FOSS Tobias
+https://www.strava.com/athletes/1216273;GESINK Robert
+https://www.strava.com/athletes/4352993;GROENEWEGEN Dylan
+https://www.strava.com/athletes/8843343;HOFSTEDE Lennard
+https://www.strava.com/athletes/3056059;KRUIJSWIJK Steven
+https://www.strava.com/athletes/254096;KUSS Sepp
+https://www.strava.com/athletes/7038403;LINDEMAN Bert-Jan
+https://www.strava.com/athletes/1675856;MARTENS Paul
+https://www.strava.com/athletes/1515613;ROOSEN Timo
+https://www.strava.com/athletes/1419979;TEUNISSEN Mike
+https://www.strava.com/athletes/1039712;TOLHOEK Antwan
+https://www.strava.com/athletes/189040;VAN AERT Wout
+https://www.strava.com/athletes/576925;WYNANTS Maarten

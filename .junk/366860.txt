@@ -1,0 +1,4 @@
+date|distance|mov_time|elevation|relativeEffort|avg_power_weig|work_total|training_load|intensity|estAvgPower|energyOutput|avg_speed|max_speed|avg_cadence|max_cadence|avg_heartRate|max_heartRate|avg_power|max_power|avg_calories|avg_temperature|avg_elap_time|bicycle_model|url
+15.06.2019|146,57|03:33:21|2,464|0|336|3,625|214|76%|0|0|412|958|91|129|0|0|283|1,093|4,042|24|03:41:53|SRM PC8|https://www.strava.com/activities/2452759253
+18.07.2019|207,57|05:13:37|2,954|0|316|5,272|270|72%|0|0|397|914|88|131|132|175|280|1,133|5,878|22|05:14:03|SRM PC8|https://www.strava.com/activities/2542938032
+18.08.2019|173,78|04:01:09|1,769|0|274|1,903|156|62%|0|0|432|821|88|120|139|207|132|1,064|2,122|20|04:03:23|SRM PC8|https://www.strava.com/activities/2636457292

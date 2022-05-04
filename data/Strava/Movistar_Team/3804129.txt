@@ -1,0 +1,5 @@
+date|distance|mov_time|elevation|relativeEffort|avg_power_weig|work_total|training_load|intensity|estAvgPower|energyOutput|avg_speed|max_speed|avg_cadence|max_cadence|avg_heartRate|max_heartRate|avg_power|max_power|avg_calories|avg_temperature|avg_elap_time|bicycle_model|url
+04.10.2018|188.45|04:29:07|1871|0|263|3544|0||0|0|42|83.5|86|129|146|183|219|947|3,577|19|04:29:31|Garmin Edge 520|https://www.strava.com/activities/1915867336
+21.03.2020|33.09|01:00:09|211|0|203|721|0||0|0|33|62.6|91|117|114|137|200|530|773||01:00:09|Bkool|https://www.strava.com/activities/3204550577
+02.05.2020|44.13|02:07:06|571|0|0|0|0||94|714|20.8|41|0|0|116|150|0|0|1,024|16|02:13:18|Garmin Edge 830|https://www.strava.com/activities/3384300091
+loaded urls in 2.05:14:04.0566555

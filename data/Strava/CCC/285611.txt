@@ -1,0 +1,11 @@
+date|distance|mov_time|elevation|relativeEffort|avg_power_weig|work_total|training_load|intensity|estAvgPower|energyOutput|avg_speed|max_speed|avg_cadence|max_cadence|avg_heartRate|max_heartRate|avg_power|max_power|avg_calories|avg_temperature|avg_elap_time|bicycle_model|url
+12/26/2018|120.55|04:10:14|2064|0|270|3291|168|62%|0|0|28.9|58.3|86|115|132|181|219|538|3,282|26|04:41:28|Garmin Edge 1030|https://www.strava.com/activities/2037060806
+12/25/2018|76.62|02:44:46|1515|0|284|2112|123|66%|0|0|27.9|59|86|122|136|184|214|664|2,104|29|02:51:08|Garmin Edge 1030|https://www.strava.com/activities/2035360515
+7/28/2020|164.57|05:29:09|2322|0|236|4006|169|55%|0|0|30|61.2|86|129|0|0|203|735|3,993|29|06:26:07|Garmin Edge 1030|https://www.strava.com/activities/3827488110
+7/23/2020|133.98|05:11:16|3680|0|277|4062|223|64%|0|0|25.8|70.2|82|172|0|0|218|752|4,058|26|05:53:41|Garmin Edge 1030|https://www.strava.com/activities/3805152920
+7/21/2020|169.54|06:12:42|3399|0|251|4482|216|58%|0|0|27.3|72.4|81|151|0|0|200|709|4,477|29|06:52:28|Garmin Edge 1030|https://www.strava.com/activities/3796313777
+7/20/2020|143.41|04:37:05|2356|0|250|3575|163|58%|0|0|31.1|81|81|124|0|0|215|772|3,562|22|05:07:26|Garmin Edge 1030|https://www.strava.com/activities/3790822503
+7/17/2020|166.63|05:57:46|3245|0|235|4434|187|54%|0|0|27.9|65.9|83|168|0|0|207|682|4,432|17|06:47:57|Garmin Edge 1030|https://www.strava.com/activities/3790811389
+7/25/2020|132.37|05:16:44|3825|0|269|4152|212|62%|0|0|25.1|72|80|113|0|0|218|753|4,150|22|06:20:47|Garmin Edge 1030|https://www.strava.com/activities/3827474637
+7/22/2020|30.59|01:26:37|641|0|153|686|19|35%|0|0|21.2|76.7|74|106|0|0|132|323|685|22|02:20:44|Garmin Edge 1030|https://www.strava.com/activities/3805150415
+7/16/2020|150.48|05:20:58|3739|0|272|4467|222|63%|0|0|28.1|73.8|81|117|0|0|232|765|4,454|17|05:58:52|Garmin Edge 1030|https://www.strava.com/activities/3790816723

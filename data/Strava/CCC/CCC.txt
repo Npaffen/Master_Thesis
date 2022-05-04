@@ -1,0 +1,12 @@
+https://www.strava.com/athletes/831403;BARTA Will
+https://www.strava.com/athletes/323461;ČERNÝ Josef
+https://www.strava.com/athletes/4067146;KOCH Jonas
+https://www.strava.com/athletes/15962338;PALUTA Michał
+https://www.strava.com/athletes/285611;ROSSKOPF Joey
+https://www.strava.com/athletes/287820;VAN AVERMAET Greg
+https://www.strava.com/athletes/1164101;VAN HOOYDONCK Nathan
+https://www.strava.com/athletes/1789722;VAN KEIRSBULCK Guillaume
+https://www.strava.com/athletes/3756850;WIŚNIOWSKI Łukasz
+https://www.strava.com/athletes/5284986;ZIMMERMANN Georg
+https://www.strava.com/athletes/13872795;GESCHKE Simon
+https://www.strava.com/athletes/9545283;DE MARCHI Alessandro

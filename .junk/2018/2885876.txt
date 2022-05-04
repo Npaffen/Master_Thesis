@@ -1,0 +1,4 @@
+date|distance|mov_time|elevation|relativeEffort|avg_power_weig|work_total|training_load|intensity|estAvgPower|energyOutput|avg_speed|max_speed|avg_cadence|max_cadence|avg_heartRate|max_heartRate|avg_power|max_power|avg_calories|avg_temperature|avg_elap_time|bicycle_model|url
+1/22/2018|138.6|04:54:21|2823|0|267|3530|181|59%|0|0|28.3|79.2|74|124|141|192|200|1323|3,936|20|05:22:14|Garmin Edge 820|https://www.strava.com/activities/1376131861
+6/3/2018|147.86|04:57:34|2568|0|0|0|0||0|0|29.8|81.7|0|0|0|0|0|0|||05:29:20||https://www.strava.com/activities/1625340594
+9/25/2018|28.44|01:13:48|720|0|210|808|28|47%|0|0|23.1|76|66|123|0|0|182|625|900|8|01:16:59|Garmin Edge 520|https://www.strava.com/activities/1864426233

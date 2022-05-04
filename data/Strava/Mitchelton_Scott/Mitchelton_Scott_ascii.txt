@@ -1,0 +1,11 @@
+37167909;Edoardo Affini
+780854;Michael Albasini
+26475512;Brent Bookwalter
+6728810;Kaden Groves
+283726;Jack Haig
+1714205;Daryl Impey
+3613487;Luka Mezgec
+7650668;Barnabas Peak
+358580;Nick Schultz
+1323252;Dion Smith
+278282;Simon Yates

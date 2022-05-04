@@ -1,0 +1,96 @@
+%% Creator: Inkscape 1.1.1 (3bf5ae0d25, 2021-09-20), www.inkscape.org
+%% PDF/EPS/PS + LaTeX output extension by Johan Engelen, 2010
+%% Accompanies image file 'strava_scraper_final.pdf' (pdf, eps, ps)
+%%
+%% To include the image in your LaTeX document, write
+%%   \input{<filename>.pdf_tex}
+%%  instead of
+%%   \includegraphics{<filename>.pdf}
+%% To scale the image, write
+%%   \def\svgwidth{<desired width>}
+%%   \input{<filename>.pdf_tex}
+%%  instead of
+%%   \includegraphics[width=<desired width>]{<filename>.pdf}
+%%
+%% Images with a different path to the parent latex file can
+%% be accessed with the `import' package (which may need to be
+%% installed) using
+%%   \usepackage{import}
+%% in the preamble, and then including the image with
+%%   \import{<path to file>}{<filename>.pdf_tex}
+%% Alternatively, one can specify
+%%   \graphicspath{{<path to file>/}}
+%% 
+%% For more information, please see info/svg-inkscape on CTAN:
+%%   http://tug.ctan.org/tex-archive/info/svg-inkscape
+%%
+\begingroup%
+  \makeatletter%
+  \providecommand\color[2][]{%
+    \errmessage{(Inkscape) Color is used for the text in Inkscape, but the package 'color.sty' is not loaded}%
+    \renewcommand\color[2][]{}%
+  }%
+  \providecommand\transparent[1]{%
+    \errmessage{(Inkscape) Transparency is used (non-zero) for the text in Inkscape, but the package 'transparent.sty' is not loaded}%
+    \renewcommand\transparent[1]{}%
+  }%
+  \providecommand\rotatebox[2]{#2}%
+  \newcommand*\fsize{\dimexpr\f@size pt\relax}%
+  \newcommand*\lineheight[1]{\fontsize{\fsize}{#1\fsize}\selectfont}%
+  \ifx\svgwidth\undefined%
+    \setlength{\unitlength}{547.31251717bp}%
+    \ifx\svgscale\undefined%
+      \relax%
+    \else%
+      \setlength{\unitlength}{\unitlength * \real{\svgscale}}%
+    \fi%
+  \else%
+    \setlength{\unitlength}{\svgwidth}%
+  \fi%
+  \global\let\svgwidth\undefined%
+  \global\let\svgscale\undefined%
+  \makeatother%
+  \begin{picture}(1,0.64904184)%
+    \lineheight{1}%
+    \setlength\tabcolsep{0pt}%
+    \put(0,0){\includegraphics[width=\unitlength,page=1]{strava_scraper_final.pdf}}%
+    \put(0.06097979,0.47499827){\color[rgb]{0,0,0}\makebox(0,0)[t]{\lineheight{1.25}\smash{\begin{tabular}[t]{c}2. Create file...\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=2]{strava_scraper_final.pdf}}%
+    \put(0.06509078,0.32015072){\color[rgb]{0,0,0}\makebox(0,0)[t]{\lineheight{1.25}\smash{\begin{tabular}[t]{c}4. Save to the...\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=3]{strava_scraper_final.pdf}}%
+    \put(0.37067488,0.30096607){\color[rgb]{0,0,0}\makebox(0,0)[t]{\lineheight{1.25}\smash{\begin{tabular}[t]{c}Return athletesID.txt\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=4]{strava_scraper_final.pdf}}%
+    \put(0.46248714,0.63806781){\color[rgb]{0,0,0}\makebox(0,0)[t]{\lineheight{1.25}\smash{\begin{tabular}[t]{c}1. Configure\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=5]{strava_scraper_final.pdf}}%
+    \put(0.60363136,0.49692358){\color[rgb]{0,0,0}\makebox(0,0)[t]{\lineheight{1.25}\smash{\begin{tabular}[t]{c}Use\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=6]{strava_scraper_final.pdf}}%
+    \put(0.48578279,0.19682082){\color[rgb]{0,0,0}\makebox(0,0)[t]{\lineheight{1.25}\smash{\begin{tabular}[t]{c}return URL for each activity of each month*\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=7]{strava_scraper_final.pdf}}%
+    \put(0.27612195,0.39277833){\color[rgb]{0,0,0}\makebox(0,0)[t]{\lineheight{1.25}\smash{\begin{tabular}[t]{c}6.\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=8]{strava_scraper_final.pdf}}%
+    \put(0.35697155,0.39277833){\color[rgb]{0,0,0}\makebox(0,0)[t]{\lineheight{1.25}\smash{\begin{tabular}[t]{c}press\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=9]{strava_scraper_final.pdf}}%
+    \put(0.26652963,0.23519012){\color[rgb]{0,0,0}\makebox(0,0)[t]{\lineheight{1.25}\smash{\begin{tabular}[t]{c}7.\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=10]{strava_scraper_final.pdf}}%
+    \put(0.33641657,0.23793079){\color[rgb]{0,0,0}\makebox(0,0)[t]{\lineheight{1.25}\smash{\begin{tabular}[t]{c}press\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=11]{strava_scraper_final.pdf}}%
+    \put(0.27612195,0.48322026){\color[rgb]{0,0,0}\makebox(0,0)[t]{\lineheight{1.25}\smash{\begin{tabular}[t]{c}5. Enter Lo...\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=12]{strava_scraper_final.pdf}}%
+    \put(0.93525177,0.58736551){\color[rgb]{0,0,0}\makebox(0,0)[t]{\lineheight{1.25}\smash{\begin{tabular}[t]{c}Repeat fo...\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=13]{strava_scraper_final.pdf}}%
+    \put(0.75299758,0.51199724){\color[rgb]{0,0,0}\makebox(0,0)[t]{\lineheight{1.25}\smash{\begin{tabular}[t]{c}Create at...\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=14]{strava_scraper_final.pdf}}%
+    \put(0.74614592,0.42840697){\color[rgb]{0,0,0}\makebox(0,0)[t]{\lineheight{1.25}\smash{\begin{tabular}[t]{c}8.\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=15]{strava_scraper_final.pdf}}%
+    \put(0.80095921,0.39414866){\color[rgb]{0,0,0}\makebox(0,0)[t]{\lineheight{1.25}\smash{\begin{tabular}[t]{c}return chosen athleteID.ci files\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=16]{strava_scraper_final.pdf}}%
+    \put(0.54470707,0.0556766){\color[rgb]{0,0,0}\makebox(0,0)[t]{\lineheight{1.25}\smash{\begin{tabular}[t]{c}Return data of the activity (date, distance, moving time, etc.)\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=17]{strava_scraper_final.pdf}}%
+    \put(0.47893113,0.10911955){\color[rgb]{0,0,0}\makebox(0,0)[t]{\lineheight{1.25}\smash{\begin{tabular}[t]{c}Call the activity urls of the athleteID.ci file\end{tabular}}}}%
+    \put(0.79547788,0.24341212){\color[rgb]{0,0,0}\makebox(0,0)[t]{\lineheight{1.25}\smash{\begin{tabular}[t]{c}Create at...\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=18]{strava_scraper_final.pdf}}%
+    \put(0.93525177,0.32563205){\color[rgb]{0,0,0}\makebox(0,0)[t]{\lineheight{1.25}\smash{\begin{tabular}[t]{c}Repeat fo...\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=19]{strava_scraper_final.pdf}}%
+    \put(0.81466253,0.42840697){\color[rgb]{0,0,0}\makebox(0,0)[t]{\lineheight{1.25}\smash{\begin{tabular}[t]{c}press\end{tabular}}}}%
+  \end{picture}%
+\endgroup%

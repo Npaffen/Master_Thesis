@@ -1,0 +1,5 @@
+date|distance|mov_time|elevation|relativeEffort|avg_power_weig|work_total|training_load|intensity|estAvgPower|energyOutput|avg_speed|max_speed|avg_cadence|max_cadence|avg_heartRate|max_heartRate|avg_power|max_power|avg_calories|avg_temperature|avg_elap_time|bicycle_model|url
+16.07.2019|97.13|03:41:07|2330|0|0|0|0||0|0|26.4|91.4|88|129|0|0|0|0|3,447|21|04:08:20|Garmin Edge 1030|https://www.strava.com/activities/2537779364
+14.07.2019|121.06|04:48:39|3063|0|0|0|0||0|0|25.2|73.8|86|185|0|0|0|0|4,387|15|05:27:05|Garmin Edge 1030|https://www.strava.com/activities/2532274928
+11.07.2019|130.09|05:00:56|3116|0|0|0|0||0|0|25.9|75.6|88|157|0|0|0|0|4,242|11|06:04:30|Garmin Edge 1030|https://www.strava.com/activities/2529167586
+03.11.2020|7.16|00:37:57|0|0|0|0|0||0|0|0|0|0|0|0|0|0|0|||00:00:00||https://www.strava.com/activities/4279773717

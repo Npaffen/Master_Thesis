@@ -1,0 +1,12 @@
+https://www.strava.com/athletes/12274527;ACKERMANN Pascal
+https://www.strava.com/athletes/2685219;BUCHMANN Emanuel
+https://www.strava.com/athletes/1803986;BURGHARDT Marcus
+https://www.strava.com/athletes/10573633;GROßSCHARTNER Felix
+https://www.strava.com/athletes/27117126;KÄMNA Lennard
+https://www.strava.com/athletes/4571461;KONRAD Patrick
+https://www.strava.com/athletes/2111315;LAAS Martin
+https://www.strava.com/athletes/182599;MCCARTHY Jay
+https://www.strava.com/athletes/690926;OSS Daniel
+https://www.strava.com/athletes/19985181;POLJAŃSKI Paweł
+https://www.strava.com/athletes/4056436;SCHELLING Ide
+https://www.strava.com/athletes/14588610;SCHILLINGER Andreas

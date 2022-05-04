@@ -1,0 +1,92 @@
+\documentclass[12pt,a4paper,onecolumn,oneside,draft=on]{article}
+
+\usepackage[left=2cm,right=2cm,top=2cm,bottom=2cm]{geometry}
+\usepackage[onehalfspacing]{setspace}
+\usepackage[english,ngerman]{babel}
+\usepackage{graphicx}
+\usepackage{amsmath}
+\begin{document}
+Consider some data  $\{(x_i,y_i)\}^n_{i=1}$ and a differentiable loss function $\mathcal{L}(y,F(x))$ and a multiclass classification problem which should be solved by a gradient boosting model.  $F(x)$ is a model to predict $\hat{y}$. A loss function is an evaluation metric of a model $F(x)$ and our target variable $y$. 
+The softmax transfer function is typically used to compute the estimated probability distribution in classification tasks involving multiple classes.
+Let therefore be the cross-entropy loss function defined by the estimated probability distributions gained from the softmax function so that :
+\begin{equation}
+\hat{y}_{i,softmax} = \dfrac{e^{\hat{y}}}{\sum_{k=1}^N e^{\hat{y}_k}} \\
+\label{eq:softmax_loss}
+\end{equation}
+
+\begin{equation}
+\mathcal{L}(y_i,F(x)) = -\sum_{} y_i \log \hat{y}_{i,softmax}
+\end{equation}
+where $y_i$ defines the the relative frequencies of each class in our target variable $y$ and $hat{y_i}$ defines the predictions of $y_i$.\\
+We need to initialize our gradient boosting model with an constant value. Let the initial model $F_0(x)$ be defined as :
+\begin{equation}
+F_{0}(x)= \dfrac{1}{N} \sum_{i=1}^{T_j} y_{i,j}  
+\end{equation} where $T$ defines the number of observations in class $j$ and $N$ defines the number of observations of $y$. So the inital model is the class probability for each class $j$. Given that $F(x)$ is a model to predict $\hat{y}$ the values of the model $F(x)$ can be used to define $\hat{y_i}$. So that we can calculate $\hat{y}_{i,softmax}$ with \ref{eq:softmax_loss}
+
+Now we show that the loss function is differentiable.
+\begin{equation}
+D_j\hat{y}_{i,softmax} = \dfrac{\partial \hat{y}_{i,softmax}}{\partial \hat{y}_j} = \left[\begin{array}{rll}
+D_{1} \hat{y}_{1,softmax} & \times & D_{N}\hat{y}_{1,softmax} \\
+\vdots & \ddots & \vdots \\
+D_{1}\hat{y}_{N,softmax} & \times & D_{N} \hat{y}_{N,softmax}
+\end{array}\right]
+\label{eq:dsoftmax}
+\end{equation}
+
+\begin{equation}
+D_{j} \hat{y}_{i,softmax}=\dfrac{\partial \hat{y}_{i,softmax}}{\partial \hat{y_j}}\left\{\begin{array}{cc}
+\hat{y}_{i,softmax}-\hat{y}_{j,softmax}^2 & i=j \\
+-\hat{y}_{j,softmax} \times \hat{y}_{i,softmax} & i \neq j
+\end{array}\right\}
+\end{equation}
+
+And the derivative of the cross-entropy loss function w.r.t. $\hat{y_i}$
+\begin{equation}
+\frac{\partial \mathcal{L}}{\partial\hat{y}_{i,softmax}}=\left(-\sum y_{i} \log \hat{y}_{i,softmax}\right)=-\sum\frac{y_{i}}{\hat{y}_{i,softmax}}
+\end{equation}
+
+Combining both gradients leads to the gradient of the loss function
+
+\begin{equation}
+\begin{aligned}
+\frac{\partial \mathcal{L}}{\partial \hat{y}_{i,softmax}} &=-\dfrac{y_{i}}{\hat{y}_{i,softmax}} \hat{y}_{i,softmax}\left(1-\hat{y}_{i,softmax}\right)+\sum_{j \neq i}-\frac{y_{j}}{\hat{y}_{j}}\left(-\hat{y}_{j,softmax} \hat{y}_{i,softmax}\right)\\
+&=-y_{i}+y_{i} \hat{y}_{i,softmax}+\sum_{j \neq i} y_{j} \hat{y}_{i,softmax} \\
+&=-y_{i}+\sum_{j} y_{j} \hat{y}_{i,softmax}\\
+& =\hat{y}_{i,softmax} \underbrace{\sum_{j} y_{j}}_{=1}-y_{i}\\
+& = \hat{y}_{i,softmax} - y_i
+\end{aligned}
+\end{equation} where $y_j$ is the probability of class $j$
+
+
+
+
+
+
+One obtains the intial residuals $r_{i0}=y_i - F_0(x)$ which are then used to fit a classification tree with $R$ terminal nodes.
+
+The pseudo residuals are obtained through
+\begin{equation}
+\begin{aligned}
+r_{im} &= -\left[\frac{\partial \mathcal{L}\left(y_{i}, F\left(x_{i}\right)\right)}{\partial \hat{y}_{i,softmax}}\right]_{F(x)=F_{m-1}(x)} \text { for } i=1, \ldots, n \\
+&= -\sum_{i = 1}^N(\hat{y}_{i,softmax} - y_i) \\
+&= \sum_{i = 1}^N (y_i -\hat{y}_{i,softmax})
+\end{aligned}
+\end{equation}
+
+The output values for each terminal node $l$ of each tree $m$ $\gamma_{l m}$ can be derived using a second-order Taylor approximation so that,
+\begin{equation}
+\begin{aligned}
+\gamma_{lm} &= \underset{\gamma}{\operatorname{argmin}} \sum_{x_{i} \in R_{lm}} L\left(y_{i}, F_{m-1}\left(x_{i}\right)+\gamma\right) \\ 
+&\approx \dfrac{\partial \mathcal{L}\left(y_{i}, F\left(x_{i}\right)\right) +  \frac{\partial \mathcal{L}\left(y_{i}, F\left(x_{i}\right)\right)}{\partial\hat{y}_{i,softmax}}\gamma + \frac{1}{2}\frac{\partial \mathcal{L}\left(y_{i}, F\left(x_{i}\right)\right)}{\partial^2\hat{y}_{i,softmax}}\gamma^2}{\partial \gamma} \\
+&=  \hat{y}_{i,softmax} - y_i +   \gamma \stackrel{!}{=} 0 \\
+&\gamma= y_i  -\hat{y}_{i,softmax}  
+\end{aligned}
+\end{equation}
+
+
+In the end our updated model should be :
+\begin{equation}
+F_{m}(x)=F_{m-1}(x)+\nu \sum_{j=1}^{m} \gamma_{j m} I\left(x \in R_{j m}\right)
+\end{equation} where $\nu$ is a learning rate to weight the output values of the tree $m$. 
+
+\end{document}

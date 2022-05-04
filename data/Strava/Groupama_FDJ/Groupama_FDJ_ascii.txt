@@ -1,0 +1,21 @@
+2192184;Bruno Armirail
+6998219;William Bonnet
+8843498;Clément Davy
+2004239;Mickaël Delage
+1737657;Arnaud Démare
+1786916;Antoine Duchesne
+1400765;Kilian Frankiny
+4774417;David Gaudu
+5543279;Simon Guglielmi
+133606;Stefan Küng
+7348371;Matthieu Ladagnous
+1836077;Olivier Le Gac
+19161146;Fabian Lienhard
+2420222;Tobias Ludvigsson
+1759446;Rudy Molard
+1603067;Thibaut Pinot
+850495;Sebastien Reichenbach
+4259094;Marc Sarreau
+17916554;Ramon Sinkeldam
+17096447;Jake Stewart
+1700745;Benjamin Thomas

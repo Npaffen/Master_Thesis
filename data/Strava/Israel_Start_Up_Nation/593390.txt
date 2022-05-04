@@ -1,0 +1,16 @@
+date|distance|mov_time|elevation|relativeEffort|avg_power_weig|work_total|training_load|intensity|estAvgPower|energyOutput|avg_speed|max_speed|avg_cadence|max_cadence|avg_heartRate|max_heartRate|avg_power|max_power|avg_calories|avg_temperature|avg_elap_time|bicycle_model|url
+1/25/2018|163.63|04:46:17|1959|0|0|0|0||0|0|34.3|62.6|93|120|0|0|0|0||11|05:06:29|Garmin Edge 820|https://www.strava.com/activities/1374785081
+1/24/2018|179.56|05:41:17|2104|0|0|0|0||0|0|31.6|60.5|88|130|0|0|0|0||15|06:11:28|Garmin Edge 820|https://www.strava.com/activities/1373607547
+1/20/2018|168.89|05:03:58|1848|0|0|0|0||0|0|33.3|69.8|91|130|0|0|0|0||17|05:30:47|Garmin Edge 820|https://www.strava.com/activities/1366737245
+1/18/2018|101.22|03:11:12|971|0|0|0|0||0|0|31.8|68.4|86|115|0|0|0|0||5|03:18:27|Garmin Edge 820|https://www.strava.com/activities/1363136279
+4/17/2018|143.22|03:54:34|2705|0|0|0|0||0|0|36.6|91.4|89|136|0|0|0|0||19|04:00:02|Garmin Edge 820|https://www.strava.com/activities/1514146338
+6/28/2018|120.44|04:04:21|2590|0|0|0|0||0|0|29.6|69.1|85|188|0|0|0|0|3,816|18|04:05:53|Garmin Edge 820|https://www.strava.com/activities/1667727509
+6/27/2018|100.09|03:24:43|1942|0|0|0|0||0|0|29.3|73.4|92|150|0|0|0|0|3,078|22|03:25:21|Garmin Edge 820|https://www.strava.com/activities/1667730332
+7/28/2018|127.98|04:37:16|3461|0|0|0|0||0|0|27.7|81|88|136|0|0|0|0|4,171|27|04:48:22|Garmin Edge 820|https://www.strava.com/activities/1734095498
+8/1/2018|146.42|04:25:07|2018|0|0|0|0||0|0|33.1|86|91|137|0|0|0|0|3,658|28|04:36:13|Garmin Edge 820|https://www.strava.com/activities/1743595359
+8/12/2018|124.96|03:10:10|2041|0|0|0|0||0|0|39.4|106.2|87|158|0|0|0|0|2,869|35|03:10:10|Garmin Edge 820|https://www.strava.com/activities/1768554893
+8/11/2018|154.17|04:03:21|2636|0|0|0|0||0|0|38|99.7|86|129|0|0|0|0|3,486|32|04:03:21|Garmin Edge 820|https://www.strava.com/activities/1766113081
+8/8/2018|141.96|03:26:45|1825|0|0|0|0||0|0|41.2|87.1|92|158|0|0|0|0|2,967|35|03:26:45|Garmin Edge 820|https://www.strava.com/activities/1759748901
+3/10/2019|196.96|04:39:30|3321|0|0|0|0||0|0|42.3|85.7|91|135|0|0|0|0|4,600|9|04:40:24|Lezyne Mega XL GPS|https://www.strava.com/activities/2205007671
+3/10/2019|196.96|04:39:30|3321|0|0|0|0||0|0|42.3|85.7|91|135|0|0|0|0|4,600|9|04:40:24|Lezyne Mega XL GPS|https://www.strava.com/activities/2286362402
+4/6/2019|191.85|04:53:14|2918|0|0|0|0||0|0|39.3|82.8|90|134|0|0|0|0|5,228|16|04:53:14|Lezyne Mega XL GPS|https://www.strava.com/activities/2271431634

@@ -1,0 +1,13 @@
+https://www.strava.com/athletes/2276607;ARCAS Jorge
+https://www.strava.com/athletes/602548;CULLAIGH Gabriel
+https://www.strava.com/athletes/26853748;HOLLMANN Juri
+https://www.strava.com/athletes/461374;JACOBS Johan
+https://www.strava.com/athletes/557974;JORGENSON Matteo
+https://www.strava.com/athletes/1592337;MAS Lluís
+https://www.strava.com/athletes/3983783;NORSGAARD Mathias
+https://www.strava.com/athletes/9389733;PRADES Eduard
+https://www.strava.com/athletes/3804129;SAMITIER Sergio
+https://www.strava.com/athletes/13194699;SEPÚLVEDA Eduardo
+https://www.strava.com/athletes/1996868;SOLER Marc
+https://www.strava.com/athletes/1405137;VERONA Carlos
+https://www.strava.com/athletes/1756844;VILLELLA Davide

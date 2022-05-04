@@ -1,0 +1,2 @@
+date|distance|mov_time|elevation|relativeEffort|avg_power_weig|work_total|training_load|intensity|estAvgPower|energyOutput|avg_speed|max_speed|avg_cadence|max_cadence|avg_heartRate|max_heartRate|avg_power|max_power|avg_calories|avg_temperature|avg_elap_time|bicycle_model|url
+27.01.2019|166,34|04:08:41|1,669|0|0|0|0||0|0|401|961|92|140|150|188|0|0|2,584|34|04:11:12|Bryton Rider 450|https://www.strava.com/activities/2105805164

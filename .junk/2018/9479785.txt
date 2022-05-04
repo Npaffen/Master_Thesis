@@ -1,0 +1,21 @@
+date|distance|mov_time|elevation|relativeEffort|avg_power_weig|work_total|training_load|intensity|estAvgPower|energyOutput|avg_speed|max_speed|avg_cadence|max_cadence|avg_heartRate|max_heartRate|avg_power|max_power|avg_calories|avg_temperature|avg_elap_time|bicycle_model|url
+06.01.2018|151,93|04:54:46|1,687|0|0|0|0||0|0|309|637|0|0|0|0|0|0|||05:04:17||https://www.strava.com/activities/1353680823
+20.08.2018|8,73|01:59:41|0|0|0|0|0||0|0|0|0|0|0|0|0|0|0|||00:00:00|Garmin fēnix 3|https://www.strava.com/activities/2772092192
+30.11.2018|4,81|00:29:34|0|0|0|0|0||0|0|0|0|0|0|0|0|0|0|||00:00:00||https://www.strava.com/activities/2013454517
+31.12.2018|118,22|04:05:00|998|0|212|2,727|145|59%|0|0|290|824|77|110|0|0|186|732|2,819|12|04:31:53|Lezyne Mega XL GPS|https://www.strava.com/activities/2049884096
+30.12.2018|124,82|04:22:50|2,328|0|265|3,486|246|73%|0|0|285|756|77|108|0|0|221|859|3,608|10|04:59:38|Lezyne Mega XL GPS|https://www.strava.com/activities/2049878445
+29.12.2018|84,03|03:08:54|1,644|0|252|2,375|157|70%|0|0|267|662|77|105|0|0|210|813|2,461|8|03:12:53|Lezyne Mega XL GPS|https://www.strava.com/activities/2043487733
+28.12.2018|84,58|02:57:23|1,533|0|277|2,322|182|77%|0|0|286|745|80|108|0|0|218|871|2,404|10|03:06:08|Lezyne Mega XL GPS|https://www.strava.com/activities/2040060740
+27.12.2018|44,52|01:31:07|707|0|263|1,178|84|73%|0|0|293|583|80|114|0|0|216|520|1,219|11|01:38:08|Lezyne Mega XL GPS|https://www.strava.com/activities/2061398285
+26.12.2018|56,2|01:51:19|414|0|241|1,446|82|67%|0|0|303|482|81|111|0|0|216|523|1,492|4|01:51:19|Lezyne Mega XL GPS|https://www.strava.com/activities/2038182952
+24.12.2018|86,5|03:10:42|735|0|201|1,969|101|56%|0|0|272|533|75|103|0|0|172|817|2,033|8|03:16:01|Lezyne Mega XL GPS|https://www.strava.com/activities/2061400892
+22.12.2018|54,31|02:03:21|428|0|198|1,218|62|55%|0|0|264|605|74|105|0|0|165|698|1,259|10|02:03:48|Lezyne Mega XL GPS|https://www.strava.com/activities/2029568771
+20.12.2018|201,16|06:38:04|2,54|0|238|4,862|291|66%|0|0|303|1037|74|126|0|0|204|837|5,026|14|06:41:22|Lezyne Mega XL GPS|https://www.strava.com/activities/2026823928
+19.12.2018|149,08|04:44:03|1,38|0|241|3,222|222|67%|0|0|315|702|77|120|0|0|189|899|3,324|19|05:00:15|Lezyne Mega XL GPS|https://www.strava.com/activities/2025338846
+18.12.2018|137,87|04:26:15|1,955|0|260|3,521|236|72%|0|0|311|828|79|135|0|0|220|1,198|3,652|13|04:37:03|Lezyne Mega XL GPS|https://www.strava.com/activities/2023323040
+16.12.2018|216,54|06:36:57|1,873|0|237|4,753|298|66%|0|0|327|749|82|129|0|0|200|999|4,909|20|07:30:11|Lezyne Mega XL GPS|https://www.strava.com/activities/2020432061
+15.12.2018|95,05|03:18:40|1,597|0|256|2,511|175|71%|0|0|287|785|80|161|0|0|211|969|2,596|16|03:50:12|Lezyne Mega XL GPS|https://www.strava.com/activities/2018296169
+14.12.2018|148,55|04:44:56|2,021|0|239|3,265|210|66%|0|0|313|767|84|153|0|0|191|765|3,374|12|04:48:54|Lezyne Mega XL GPS|https://www.strava.com/activities/2016649910
+13.12.2018|121,88|03:53:50|969|0|234|2,403|167|65%|0|0|313|612|83|147|0|0|171|953|2,492|11|03:59:11|Lezyne Mega XL GPS|https://www.strava.com/activities/2015278920
+12.12.2018|129,17|03:49:59|827|0|219|2,655|146|61%|0|0|337|706|86|148|0|0|192|1,017|2,750|19|04:16:49|Lezyne Mega XL GPS|https://www.strava.com/activities/2013830969
+loaded urls in 11.06:28:58.6895016

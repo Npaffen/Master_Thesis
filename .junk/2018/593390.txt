@@ -1,0 +1,13 @@
+date|distance|mov_time|elevation|relativeEffort|avg_power_weig|work_total|training_load|intensity|estAvgPower|energyOutput|avg_speed|max_speed|avg_cadence|max_cadence|avg_heartRate|max_heartRate|avg_power|max_power|avg_calories|avg_temperature|avg_elap_time|bicycle_model|url
+25.01.2018|163,63|04:46:17|1,959|0|0|0|0||0|0|343|626|93|120|0|0|0|0||11|05:06:29|Garmin Edge 820|https://www.strava.com/activities/1374785081
+24.01.2018|179,56|05:41:17|2,104|0|0|0|0||0|0|316|605|88|130|0|0|0|0||15|06:11:28|Garmin Edge 820|https://www.strava.com/activities/1373607547
+20.01.2018|168,89|05:03:58|1,848|0|0|0|0||0|0|333|698|91|130|0|0|0|0||17|05:30:47|Garmin Edge 820|https://www.strava.com/activities/1366737245
+18.01.2018|101,22|03:11:12|971|0|0|0|0||0|0|318|684|86|115|0|0|0|0||5|03:18:27|Garmin Edge 820|https://www.strava.com/activities/1363136279
+17.04.2018|143,22|03:54:34|2,705|0|0|0|0||0|0|366|914|89|136|0|0|0|0||19|04:00:02|Garmin Edge 820|https://www.strava.com/activities/1514146338
+28.06.2018|120,44|04:04:21|2,59|0|0|0|0||0|0|296|691|85|188|0|0|0|0|3,816|18|04:05:53|Garmin Edge 820|https://www.strava.com/activities/1667727509
+27.06.2018|100,09|03:24:43|1,942|0|0|0|0||0|0|293|734|92|150|0|0|0|0|3,078|22|03:25:21|Garmin Edge 820|https://www.strava.com/activities/1667730332
+28.07.2018|127,98|04:37:16|3,461|0|0|0|0||0|0|277|810|88|136|0|0|0|0|4,171|27|04:48:22|Garmin Edge 820|https://www.strava.com/activities/1734095498
+01.08.2018|146,42|04:25:07|2,018|0|0|0|0||0|0|331|860|91|137|0|0|0|0|3,658|28|04:36:13|Garmin Edge 820|https://www.strava.com/activities/1743595359
+12.08.2018|124,96|03:10:10|2,041|0|0|0|0||0|0|394|1062|87|158|0|0|0|0|2,869|35|03:10:10|Garmin Edge 820|https://www.strava.com/activities/1768554893
+11.08.2018|154,17|04:03:21|2,636|0|0|0|0||0|0|380|997|86|129|0|0|0|0|3,486|32|04:03:21|Garmin Edge 820|https://www.strava.com/activities/1766113081
+08.08.2018|141,96|03:26:45|1,825|0|0|0|0||0|0|412|871|92|158|0|0|0|0|2,967|35|03:26:45|Garmin Edge 820|https://www.strava.com/activities/1759748901

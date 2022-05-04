@@ -1,0 +1,15 @@
+https://www.strava.com/athletes/1903938;BERNARD Julien
+https://www.strava.com/athletes/29028250;CICCONE Giulio
+https://www.strava.com/athletes/2332012;CLARKE Will
+https://www.strava.com/athletes/2327652;DE KORT Koen
+https://www.strava.com/athletes/1387645;ELISSONDE Kenny
+https://www.strava.com/athletes/2590526;KIRSCH Alex
+https://www.strava.com/athletes/10163092;LIEPIŅŠ Emīls
+https://www.strava.com/athletes/307079;MULLEN Ryan
+https://www.strava.com/athletes/1785181;NIBALI Antonio
+https://www.strava.com/athletes/8842341;NIBALI Vincenzo
+https://www.strava.com/athletes/6072239;PORTE Richie
+https://www.strava.com/athletes/1616670;QUARTERMAN Charlie
+https://www.strava.com/athletes/283433;REIJNEN Kiel
+https://www.strava.com/athletes/288335;STUYVEN Jasper
+https://www.strava.com/athletes/1668485;THEUNS Edward

@@ -1,0 +1,17 @@
+880187;George Bennett
+1993533;Koen Bouwman
+4049155;Laurens De Plus
+1563189;Pascal Eenkhoorn
+2885876;Tobias Foss
+1216273;Robert Gesink
+4352993;Dylan Groenewegen
+8843343;Lennard Hofstede
+3056059;Steven Kruijswijk
+254096;Sepp Kuss
+7038403;Bert-Jan Lindeman 
+1675856;Paul Martens 
+1515613;Timo Roosen 
+1419979;Mike Teunissen
+1039712;Antwan Tolhoek
+189040;Wout Van Aert
+576925;Maarten Wynants

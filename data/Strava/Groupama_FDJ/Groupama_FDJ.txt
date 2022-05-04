@@ -1,0 +1,21 @@
+https://www.strava.com/athletes/2192184;ARMIRAIL Bruno
+https://www.strava.com/athletes/6998219;BONNET William
+https://www.strava.com/athletes/8843498;DAVY Clément
+https://www.strava.com/athletes/2004239;DELAGE Mickaël
+https://www.strava.com/athletes/1737657;DÉMARE Arnaud
+https://www.strava.com/athletes/1786916;DUCHESNE Antoine
+https://www.strava.com/athletes/1400765;FRANKINY Kilian
+https://www.strava.com/athletes/4774417;GAUDU David
+https://www.strava.com/athletes/5543279;GUGLIELMI Simon
+https://www.strava.com/athletes/133606;KÜNG Stefan
+https://www.strava.com/athletes/7348371;LADAGNOUS Matthieu
+https://www.strava.com/athletes/1836077;LE GAC Olivier
+https://www.strava.com/athletes/19161146;LIENHARD Fabian
+https://www.strava.com/athletes/2420222;LUDVIGSSON Tobias
+https://www.strava.com/athletes/1759446;MOLARD Rudy
+https://www.strava.com/athletes/1603067;PINOT Thibaut
+https://www.strava.com/athletes/850495;REICHENBACH Sébastien
+https://www.strava.com/athletes/4259094;SARREAU Marc
+https://www.strava.com/athletes/17916554;SINKELDAM Ramon
+https://www.strava.com/athletes/17096447;STEWART Jake
+https://www.strava.com/athletes/1700745;THOMAS Benjamin

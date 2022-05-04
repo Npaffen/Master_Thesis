@@ -1,0 +1,7 @@
+date|distance|mov_time|elevation|relativeEffort|avg_power_weig|work_total|training_load|intensity|estAvgPower|energyOutput|avg_speed|max_speed|avg_cadence|max_cadence|avg_heartRate|max_heartRate|avg_power|max_power|avg_calories|avg_temperature|avg_elap_time|bicycle_model|url
+29.10.2019|23.36|02:21:21|34|0|0|0|0||142|1203|9.9|64.1|0|0|0|0|0|0|1,341||23:56:15||https://www.strava.com/activities/2828590597
+28.10.2019|35.88|03:19:45|196|0|0|0|0||224|2688|10.8|46.8|0|0|0|0|0|0|2,998||08:50:03||https://www.strava.com/activities/2824579331
+20.10.2019|5.53|00:14:09|169|0|0|0|0||287|243|23.5|43.6|0|0|0|0|0|0|271||00:15:59||https://www.strava.com/activities/2802757067
+14.10.2019|1.81|00:19:48|17|0|0|0|0||93|111|5.5|11.2|0|0|0|0|0|0|123||00:19:48||https://www.strava.com/activities/2787837154
+14.10.2019|2.34|00:24:07|196|0|0|0|0||406|587|5.8|17.3|0|0|0|0|0|0|655||00:27:13||https://www.strava.com/activities/2787692143
+12.10.2019|59.67|02:40:13|1672|0|0|0|0||384|3691|22.3|69.5|0|0|0|0|0|0|4,115||03:46:30||https://www.strava.com/activities/2782618953

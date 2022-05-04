@@ -1,0 +1,18 @@
+https://www.strava.com/athletes/4980290;CLAEYS Dimitri
+https://www.strava.com/athletes/2824377;CONSONNI Simone
+https://www.strava.com/athletes/1621202;EDET Nicolas
+https://www.strava.com/athletes/12924172;HAAS Nathan
+https://www.strava.com/athletes/2592729;HERRADA Jesús
+https://www.strava.com/athletes/3834960;LAPORTE Christophe
+https://www.strava.com/athletes/3175306;LE TURNIER Mathias
+https://www.strava.com/athletes/1880115;LEMOINE Cyril
+https://www.strava.com/athletes/2730001;MATÉ Luis Ángel
+https://www.strava.com/athletes/5103065;MATHIS Marco
+https://www.strava.com/athletes/1678917;PEREZ Anthony
+https://www.strava.com/athletes/12388271;PÉRICHON Pierre-Luc
+https://www.strava.com/athletes/5201565;PRODHOMME Nicolas
+https://www.strava.com/athletes/27036849;ROSSETTO Stéphane
+https://www.strava.com/athletes/2926114;TOUZÉ Damien
+https://www.strava.com/athletes/2393015;VANBILSEN Kenneth
+https://www.strava.com/athletes/12726147;VIVIANI Attilio
+https://www.strava.com/athletes/26837991;VIVIANI Elia

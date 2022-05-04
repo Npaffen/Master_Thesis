@@ -1,0 +1,92 @@
+\documentclass[12pt,a4paper,onecolumn,oneside,draft=on]{article}
+
+\usepackage[left=2cm,right=2cm,top=2cm,bottom=2cm]{geometry}
+\usepackage[onehalfspacing]{setspace}
+\usepackage[english,ngerman]{babel}
+\usepackage{graphicx}
+\usepackage{amsmath}
+
+\begin{document}
+	
+Consider some data  $\{(x_i,y_i)\}^n_{i=1}$ and a differentiable loss function $\mathcal{L}(y,F(x))$ and a multiclass classification problem which should be solved by a gradient boosting algorithm.
+Let therefore be the cross-entropy loss function defined by the class probabilities gained from the softmax function so that :
+\begin{equation}
+softmax = \dfrac{e^{y_i}}{\sum_{k=1}^N e^{y_k}} \\
+\label{eq:softmax:loss}
+\end{equation}
+
+\begin{equation}
+\mathcal{L}(y_i,\hat{y}_i) = -\sum_{} y_i \log \hat{y}_i
+\end{equation}
+where $y_i$ defines the the relative frequencies of each class in our target variable $y$.
+
+
+
+In this case we end up with the partial derivatives for the softmax function
+\begin{equation}
+D_j\operatorname{softmax}_i = \dfrac{\delta softmax_i}{\delta y_j} = \left[\begin{array}{rll}
+D_{1} \operatorname{softmax}_{1} & \times & D_{N} \operatorname{softmax}_{1} \\
+\vdots & \ddots & \vdots \\
+D_{1} \operatorname{softmax}_{N} & \times & D_{N} \operatorname{softmax}_{N}
+\end{array}\right]
+\label{eq:dsoftmax}
+\end{equation}
+
+\begin{equation}
+D_{j} \text { softmax }_{i}=\left\{\begin{array}{cc}
+\operatorname{softmax}_{i}-\operatorname{softmax}_{j}^2 & i=j \\
+-\operatorname{softmax}_{j} \times \operatorname{softmax}_{i} & i \neq j
+\end{array}\right\}
+\end{equation}
+
+And the derivative of the cross-entropy loss function w.r.t. $F(x)$
+\begin{equation}
+\frac{\partial \mathcal{L}}{\partial \hat{y}}=\left(-\sum_{i} y_{i} \log \hat{y}_{i}\right)=-\frac{y_{i}}{\hat{y}_{i}}
+\end{equation}
+
+Combining both gradients leads to the gradient of the loss function
+
+\begin{equation}
+\begin{aligned}
+\frac{\partial \mathcal{L}}{\partial \hat{y}} &=-\dfrac{y_{i}}{\hat{y}_{i}} \hat{y}_{i}\left(1-\hat{y}_{i}\right)+\sum_{t \neq i}-\frac{y_{t}}{\hat{y}_{t}}\left(-\hat{y}_{t} \hat{y}_{i}\right)\\
+&=-y_{i}+y_{i} \hat{y}_{i}+\sum_{t \neq i} y_{t} \hat{y}_{i} \\
+&=-y_{i}+\sum_{t} y_{t} \hat{y}_{i}\\
+& =\hat{y}_{i} \underbrace{\sum_{t} y_{t}}_{=1}-y_{i}\\
+& = \hat{y}_i - y_i
+\end{aligned}
+\end{equation}
+In this sense our initial model $F_0(x)$ should be :
+\begin{equation}
+F_{0}(x)= \dfrac{e^{y_i}}{\sum_{k=1}^N e^{y_k}}  \\
+\end{equation}
+
+
+
+
+One obtains the intial residuals $r_{i0}=y_i - F_0(x)$ which are then used to fit a classification tree with $R_{im}$ terminal nodes.
+
+The pseudo residuals are obtained through
+\begin{equation}
+\begin{aligned}
+r_{im} &= -\left[\frac{\partial \mathcal{L}\left(y_{i}, F\left(x_{i}\right)\right)}{\partial F\left(x_{i}\right)}\right]_{F(x)=F_{m-1}(x)} \text { for } i=1, \ldots, n \\
+&= -\sum_{i = 1}^N(\hat{y}_i - y_i) \\
+&= \sum_{i = 1}^N (y_i -\hat{y}_i)
+\end{aligned}
+\end{equation}
+
+The output values for each terminal node can be derived using a second-order Taylor approximation so that,
+\begin{equation}
+\begin{aligned}
+\gamma_{lm} &= \underset{\gamma}{\operatorname{argmin}} \sum_{x_{i} \in R_{lm}} L\left(y_{i}, F_{m-1}\left(x_{i}\right)+\gamma\right) \\ 
+&\approx - \left[\mathcal{L}\left(y_{i}, F\left(x_{i}\right)\right) +  \frac{\partial \mathcal{L}\left(y_{i}, F\left(x_{i}\right)\right)}{\partial F\left(x_{i}\right)} + \frac{\partial \mathcal{L}\left(y_{i}, F\left(x_{i}\right)\right)}{\partial^2 F\left(x_{i}\right)}\right] \\
+&=  y_ilog(\hat{y}_i) + \sum_{i = 1}^N (y_i -\hat{y}_i)   - 1
+\end{aligned}
+\end{equation}
+
+
+In the end our new predictions should be :
+\begin{equation}
+F_{m}(x)=F_{m-1}(x)+\nu \sum_{j=1}^{m} \gamma_{j m} I\left(x \in R_{j m}\right)
+\end{equation}
+
+\end{document}

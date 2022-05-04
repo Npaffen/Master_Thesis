@@ -1,0 +1,12 @@
+https://www.strava.com/athletes/2119306;BERNAL Egan
+https://www.strava.com/athletes/7491815;FROOME Chris
+https://www.strava.com/athletes/3574069;GANNA Filippo
+https://www.strava.com/athletes/601041;HAYTER Ethan
+https://www.strava.com/athletes/2455522;KNEES Christian
+https://www.strava.com/athletes/1905161;KWIATKOWSKI Michał
+https://www.strava.com/athletes/3068615;PUCCIO Salvatore
+https://www.strava.com/athletes/1808024;SIVAKOV Pavel
+https://www.strava.com/athletes/1476851;SWIFT Ben
+https://www.strava.com/athletes/490505;VAN BAARLE Dylan
+https://www.strava.com/athletes/430673;WURF Cameron
+https://www.strava.com/pros/785450;ROWE Luke

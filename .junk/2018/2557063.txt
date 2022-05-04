@@ -1,0 +1,347 @@
+date|distance|mov_time|elevation|relativeEffort|avg_power_weig|work_total|training_load|intensity|estAvgPower|energyOutput|avg_speed|max_speed|avg_cadence|max_cadence|avg_heartRate|max_heartRate|avg_power|max_power|avg_calories|avg_temperature|avg_elap_time|bicycle_model|url
+31.01.2018|62,13|01:44:25|121|0|0|0|0||0|0|357|605|0|0|0|0|0|0||10|01:47:29|Wahoo ELEMNT BOLT|https://www.strava.com/activities/1385005994
+30.01.2018|88,25|02:30:01|86|0|0|0|0||0|0|353|623|0|0|0|0|0|0||12|02:49:42|Wahoo ELEMNT BOLT|https://www.strava.com/activities/1385006857
+28.01.2018|120,5|04:02:49|1,368|0|0|0|0||0|0|298|630|83|114|0|0|0|0||5|04:03:47|Garmin Edge 1000|https://www.strava.com/activities/1380409015
+27.01.2018|61,05|02:00:25|681|0|0|0|0||0|0|304|616|85|116|0|0|0|0||4|02:02:30|Garmin Edge 1000|https://www.strava.com/activities/1377942845
+26.01.2018|93,8|03:01:22|520|0|0|0|0||0|0|310|558|88|169|0|0|0|0||5|03:02:53|Garmin Edge 1000|https://www.strava.com/activities/1376496519
+22.01.2018|60,1|02:13:10|441|0|0|0|0||0|0|271|580|82|114|0|0|0|0||20|02:38:47|Wahoo ELEMNT BOLT|https://www.strava.com/activities/1369914224
+21.01.2018|201,23|06:00:32|1,951|0|0|0|0||0|0|335|734|0|0|0|0|0|0||19|06:16:33|Wahoo ELEMNT BOLT|https://www.strava.com/activities/1368461844
+20.01.2018|158,98|04:42:02|1,17|0|0|0|0||0|0|338|731|84|115|0|0|0|0||14|05:29:11|Wahoo ELEMNT BOLT|https://www.strava.com/activities/1366921847
+19.01.2018|136,12|04:01:14|673|0|0|0|0||0|0|339|673|87|138|0|0|0|0||14|04:27:04|Wahoo ELEMNT BOLT|https://www.strava.com/activities/1364751698
+18.01.2018|20,64|00:47:16|245|0|0|0|0||0|0|262|558|80|115|0|0|0|0||16|01:31:42|Wahoo ELEMNT BOLT|https://www.strava.com/activities/1364751759
+17.01.2018|218,96|07:02:19|3,145|0|0|0|0||0|0|311|760|81|254|0|0|0|0||13|07:45:08|Wahoo ELEMNT BOLT|https://www.strava.com/activities/1361721566
+16.01.2018|113,02|03:09:55|654|0|0|0|0||0|0|357|648|89|141|0|0|0|0||16|03:22:40|Wahoo ELEMNT BOLT|https://www.strava.com/activities/1359944920
+14.01.2018|181,81|05:44:11|2,176|0|0|0|0||0|0|317|655|82|129|0|0|0|0||11|06:04:12|Wahoo ELEMNT BOLT|https://www.strava.com/activities/1358352655
+13.01.2018|151,56|04:47:45|1,62|0|0|0|0||0|0|316|670|84|127|0|0|0|0||12|05:12:18|Wahoo ELEMNT BOLT|https://www.strava.com/activities/1355028583
+12.01.2018|138,91|03:59:17|760|0|0|0|0||0|0|348|637|85|134|0|0|0|0||14|04:17:28|Wahoo ELEMNT BOLT|https://www.strava.com/activities/1353775044
+11.01.2018|64,49|01:58:48|301|0|0|0|0||0|0|326|670|87|126|0|0|0|0|1,197|11|02:44:47|Garmin Edge 1000|https://www.strava.com/activities/2934995125
+10.01.2018|43,85|01:39:15|205|0|0|0|0||0|0|265|511|84|112|0|0|0|0|713|12|02:59:15|Garmin Edge 1000|https://www.strava.com/activities/2934994741
+09.01.2018|154,08|05:16:01|2,134|0|0|0|0||0|0|293|724|81|132|0|0|0|0|3,908|10|06:08:28|Garmin Edge 1000|https://www.strava.com/activities/2934994821
+08.01.2018|126,01|04:00:57|673|0|0|0|0||0|0|314|497|87|164|0|0|0|0|2,668|8|04:51:17|Garmin Edge 1000|https://www.strava.com/activities/2934993917
+07.01.2018|42,12|01:21:56|198|0|0|0|0||0|0|309|504|92|135|0|0|0|0|975|8|01:22:28|Garmin Edge 1000|https://www.strava.com/activities/2934993078
+06.01.2018|68,93|02:11:59|336|0|0|0|0||0|0|313|515|86|115|0|0|0|0|1,331|14|02:15:39|Garmin Edge 1000|https://www.strava.com/activities/2934992892
+05.01.2018|6,32|00:30:02|0|0|0|0|0||0|0|0|0|0|0|0|0|0|0|||00:00:00||https://www.strava.com/activities/1341691077
+04.01.2018|72,53|02:30:21|585|0|0|0|0||0|0|289|619|87|163|0|0|0|0|1,629|4|02:41:00|Garmin Edge 1000|https://www.strava.com/activities/2934988832
+02.01.2018|61,2|02:01:41|459|0|0|0|0||0|0|302|673|87|139|0|0|0|0|1,409|3|02:01:59|Garmin Edge 1000|https://www.strava.com/activities/2934988234
+28.02.2018|38,13|01:05:57|0|0|0|0|0||0|0|347|479|88|207|0|0|0|0||7|04:15:08|Wahoo ELEMNT BOLT|https://www.strava.com/activities/1433683533
+24.02.2018|36,89|01:13:56|68|0|0|0|0||0|0|299|554|81|122|0|0|0|0||31|02:00:17|Wahoo ELEMNT BOLT|https://www.strava.com/activities/1423083824
+23.02.2018|133,51|03:03:16|305|0|0|0|0||0|0|437|724|82|169|0|0|0|0||35|03:03:38|Wahoo ELEMNT BOLT|https://www.strava.com/activities/1423085383
+22.02.2018|147,41|03:15:00|218|0|0|0|0||0|0|454|706|86|119|0|0|0|0||29|03:15:20|Wahoo ELEMNT BOLT|https://www.strava.com/activities/1420290765
+22.02.2018|7,32|00:17:16|12|0|0|0|0||0|0|255|392|75|100|0|0|0|0||27|01:01:05|Wahoo ELEMNT BOLT|https://www.strava.com/activities/1420290988
+21.02.2018|190,7|04:56:02|1,143|0|0|0|0||0|0|387|839|79|125|0|0|0|0||32|04:56:27|Wahoo ELEMNT BOLT|https://www.strava.com/activities/1419006889
+21.02.2018|16|00:35:34|23|0|0|0|0||0|0|270|425|78|116|0|0|0|0||30|00:54:59|Wahoo ELEMNT BOLT|https://www.strava.com/activities/1419007213
+20.02.2018|52,45|01:38:17|109|0|0|0|0||0|0|320|608|87|147|0|0|0|0||26|01:41:25|Wahoo ELEMNT BOLT|https://www.strava.com/activities/1416826384
+18.02.2018|30,58|01:00:34|158|0|0|0|0||0|0|303|464|88|118|0|0|0|0||11|01:00:57|Wahoo ELEMNT BOLT|https://www.strava.com/activities/1416826506
+17.02.2018|125,27|03:29:42|769|0|0|0|0||0|0|358|619|88|122|0|0|0|0||17|03:32:19|Wahoo ELEMNT BOLT|https://www.strava.com/activities/1416827580
+16.02.2018|171|04:59:40|1,367|0|0|0|0||0|0|342|630|85|145|0|0|0|0||16|05:41:12|Wahoo ELEMNT BOLT|https://www.strava.com/activities/1411213248
+15.02.2018|175|04:59:58|1,146|0|0|0|0||0|0|350|698|86|130|0|0|0|0||18|05:55:03|Wahoo ELEMNT BOLT|https://www.strava.com/activities/1408732672
+14.02.2018|55,03|01:43:24|262|0|0|0|0||0|0|319|533|87|120|0|0|0|0||12|01:43:42|Wahoo ELEMNT BOLT|https://www.strava.com/activities/1433670563
+13.02.2018|0|00:00:00|0|0|0|0|0||0|0|7|7|0|0|0|0|0|0||0|00:00:01|Garmin Edge 1000|https://www.strava.com/activities/2224596754
+13.02.2018|61,01|02:00:59|341|0|0|0|0||0|0|303|472|86|111|0|0|0|0||1|02:01:31|Garmin Edge 1000|https://www.strava.com/activities/1405321783
+10.02.2018|19,03|00:39:56|16|0|0|0|0||0|0|286|410|77|101|0|0|0|0||23|00:43:50|Wahoo ELEMNT BOLT|https://www.strava.com/activities/1400750452
+10.02.2018|132,89|03:11:06|216|0|0|0|0||0|0|417|713|87|119|0|0|0|0||25|03:19:52|Wahoo ELEMNT BOLT|https://www.strava.com/activities/1400752079
+10.02.2018|7,32|00:16:35|14|0|0|0|0||0|0|265|385|74|103|0|0|0|0||29|00:16:35|Wahoo ELEMNT BOLT|https://www.strava.com/activities/1400751913
+09.02.2018|171,95|03:43:29|1,224|0|0|0|0||0|0|462|976|87|129|0|0|0|0||27|03:45:38|Wahoo ELEMNT BOLT|https://www.strava.com/activities/1399055439
+09.02.2018|7,39|00:16:27|11|0|0|0|0||0|0|270|414|73|97|0|0|0|0||23|00:16:27|Wahoo ELEMNT BOLT|https://www.strava.com/activities/1399055402
+08.02.2018|180,12|03:56:34|889|0|0|0|0||0|0|457|878|86|121|0|0|0|0||28|03:56:34|Wahoo ELEMNT BOLT|https://www.strava.com/activities/1397968795
+08.02.2018|7,26|00:15:36|14|0|0|0|0||0|0|280|371|76|102|0|0|0|0||27|00:15:36|Wahoo ELEMNT BOLT|https://www.strava.com/activities/1397968579
+07.02.2018|190,67|04:34:50|340|0|0|0|0||0|0|416|720|86|126|0|0|0|0||25|04:36:12|Wahoo ELEMNT BOLT|https://www.strava.com/activities/1396031977
+07.02.2018|7,34|00:16:32|7|0|0|0|0||0|0|266|378|70|101|0|0|0|0||24|00:16:32|Wahoo ELEMNT BOLT|https://www.strava.com/activities/1396031830
+06.02.2018|9,81|00:20:57|47|0|0|0|0||0|0|281|590|76|105|0|0|0|0||22|00:24:23|Wahoo ELEMNT BOLT|https://www.strava.com/activities/1394199482
+06.02.2018|166,85|03:51:59|410|0|0|0|0||0|0|432|652|87|192|0|0|0|0||26|03:53:39|Wahoo ELEMNT BOLT|https://www.strava.com/activities/1394217532
+06.02.2018|7,41|00:13:54|13|0|0|0|0||0|0|320|428|81|121|0|0|0|0||27|00:13:54|Wahoo ELEMNT BOLT|https://www.strava.com/activities/1394235939
+05.02.2018|72,21|02:08:12|130|0|0|0|0||0|0|338|691|84|135|0|0|0|0||25|02:25:23|Wahoo ELEMNT BOLT|https://www.strava.com/activities/1394234372
+01.02.2018|30,01|01:01:05|164|0|0|0|0||0|0|295|511|88|116|0|0|0|0|760|2|01:01:05|Garmin Edge 1000|https://www.strava.com/activities/2934996572
+31.03.2018|50,2|01:31:06|13|0|0|0|0||0|0|331|515|90|127|0|0|0|0||7|01:31:56|Wahoo ELEMNT BOLT|https://www.strava.com/activities/1485377936
+30.03.2018|27,75|01:04:26|76|0|0|0|0||0|0|258|410|81|117|0|0|0|0||10|01:33:29|Wahoo ELEMNT BOLT|https://www.strava.com/activities/1485379703
+29.03.2018|189,1|06:12:30|1,606|0|0|0|0||0|0|305|698|82|153|0|0|0|0||10|06:52:36|Wahoo ELEMNT BOLT|https://www.strava.com/activities/1478140589
+28.03.2018|49,91|01:13:56|145|0|0|0|0||0|0|405|608|85|122|0|0|0|0||5|01:18:59|Wahoo ELEMNT BOLT|https://www.strava.com/activities/1477551089
+26.03.2018|29,99|01:10:32|67|0|0|0|0||0|0|255|400|82|106|0|0|0|0||7|01:46:54|Wahoo ELEMNT BOLT|https://www.strava.com/activities/1474257659
+25.03.2018|255,59|06:12:24|1,759|0|0|0|0||0|0|412|886|84|134|0|0|0|0||12|06:21:32|Wahoo ELEMNT BOLT|https://www.strava.com/activities/1471714059
+24.03.2018|46,46|01:31:59|188|0|0|0|0||0|0|303|576|86|108|0|0|0|0||9|01:47:24|Wahoo ELEMNT BOLT|https://www.strava.com/activities/1470283664
+23.03.2018|142,67|03:56:04|1,116|0|0|0|0||0|0|363|720|82|119|0|0|0|0||6|04:06:06|Wahoo ELEMNT BOLT|https://www.strava.com/activities/1467701151
+21.03.2018|33,25|01:06:28|351|0|0|0|0||0|0|300|565|86|112|0|0|0|0||1|01:06:28|Wahoo ELEMNT BOLT|https://www.strava.com/activities/1465630881
+20.03.2018|135,03|04:06:56|1,02|0|0|0|0||0|0|328|662|88|133|0|0|0|0||6|04:13:46|Wahoo ELEMNT BOLT|https://www.strava.com/activities/1462360304
+19.03.2018|30,96|01:02:10|176|0|0|0|0||0|0|299|464|86|106|0|0|0|0||0|01:02:25|Wahoo ELEMNT BOLT|https://www.strava.com/activities/1462360485
+17.03.2018|301,55|07:49:27|1,98|0|0|0|0||0|0|385|770|82|124|0|0|0|0||9|07:59:21|Wahoo ELEMNT BOLT|https://www.strava.com/activities/1457918986
+16.03.2018|41,69|01:15:13|133|0|0|0|0||0|0|333|565|88|126|0|0|0|0||12|01:16:19|Wahoo ELEMNT BOLT|https://www.strava.com/activities/1457918386
+14.03.2018|49,22|01:50:44|485|0|0|0|0||0|0|267|598|79|112|0|0|0|0||18|02:48:12|Wahoo ELEMNT BOLT|https://www.strava.com/activities/1457918908
+13.03.2018|10,02|00:12:32|3|0|0|0|0||0|0|480|580|95|110|0|0|0|0||15|00:12:32|Wahoo ELEMNT BOLT|https://www.strava.com/activities/1451396775
+13.03.2018|10,86|00:18:36|0|0|0|0|0||0|0|351|472|90|105|0|0|0|0||16|00:19:01|Wahoo ELEMNT BOLT|https://www.strava.com/activities/1451397169
+12.03.2018|153,48|03:55:06|2,059|0|0|0|0||0|0|392|904|85|126|0|0|0|0||11|03:55:59|Wahoo ELEMNT BOLT|https://www.strava.com/activities/1449578789
+12.03.2018|3,68|00:09:12|39|0|0|0|0||0|0|241|400|79|120|0|0|0|0||17|00:24:52|Wahoo ELEMNT BOLT|https://www.strava.com/activities/1449578796
+11.03.2018|179,29|04:40:23|2,211|0|0|0|0||0|0|384|799|81|124|0|0|0|0||11|04:41:01|Wahoo ELEMNT BOLT|https://www.strava.com/activities/1447850918
+11.03.2018|3,64|00:07:26|26|0|0|0|0||0|0|294|454|77|105|0|0|0|0||12|00:07:26|Wahoo ELEMNT BOLT|https://www.strava.com/activities/1447850298
+10.03.2018|219,46|06:47:45|4,754|0|0|0|0||0|0|323|1026|77|127|0|0|0|0||15|06:49:17|Wahoo ELEMNT BOLT|https://www.strava.com/activities/1446177103
+10.03.2018|7,66|00:21:40|67|0|0|0|0||0|0|212|400|71|110|0|0|0|0||13|00:36:15|Wahoo ELEMNT BOLT|https://www.strava.com/activities/1446177064
+09.03.2018|5,34|00:09:02|0|0|0|0|0||0|0|355|612|66|102|0|0|0|0||14|00:09:43|Wahoo ELEMNT BOLT|https://www.strava.com/activities/1444090215
+09.03.2018|238,6|06:30:05|3,371|0|0|0|0||0|0|367|857|80|147|0|0|0|0||17|06:35:06|Wahoo ELEMNT BOLT|https://www.strava.com/activities/1444097500
+09.03.2018|6,95|00:15:50|11|0|0|0|0||0|0|263|385|0|0|0|0|0|0||20|00:24:48|Wahoo ELEMNT BOLT|https://www.strava.com/activities/1444097362
+08.03.2018|174,84|04:20:37|775|0|0|0|0||0|0|403|713|83|127|0|0|0|0||15|04:23:02|Wahoo ELEMNT BOLT|https://www.strava.com/activities/1442525511
+08.03.2018|1,71|00:05:15|13|0|0|0|0||0|0|196|324|67|114|0|0|0|0||17|00:08:15|Wahoo ELEMNT BOLT|https://www.strava.com/activities/1442525302
+07.03.2018|21,68|00:24:35|0|0|0|0|0||0|0|529|612|96|116|0|0|0|0||12|00:24:35|Wahoo ELEMNT BOLT|https://www.strava.com/activities/1440961796
+07.03.2018|17,54|00:29:40|4|0|0|0|0||0|0|355|562|84|114|0|0|0|0||14|00:59:52|Wahoo ELEMNT BOLT|https://www.strava.com/activities/1440962079
+07.03.2018|26,26|00:48:45|0|0|0|0|0||0|0|323|522|85|140|0|0|0|0||11|02:57:59|Wahoo ELEMNT BOLT|https://www.strava.com/activities/1440962554
+06.03.2018|47,11|01:26:42|353|0|0|0|0||0|0|326|695|85|118|0|0|0|0||7|01:30:58|Wahoo ELEMNT BOLT|https://www.strava.com/activities/1438901516
+05.03.2018|35,19|01:02:18|190|0|0|0|0||0|0|339|562|86|108|0|0|0|0||7|01:05:10|Wahoo ELEMNT BOLT|https://www.strava.com/activities/1437205663
+04.03.2018|157,01|05:01:31|1,512|0|0|0|0||0|0|312|652|83|125|0|0|0|0||7|05:22:41|Wahoo ELEMNT BOLT|https://www.strava.com/activities/1435897358
+03.03.2018|48,98|01:59:49|457|0|0|0|0||0|0|245|479|0|0|0|0|0|0||18|02:03:20|Wahoo ELEMNT BOLT|https://www.strava.com/activities/1434179919
+03.03.2018|8,05|00:48:11|0|0|0|0|0||0|0|0|0|0|0|0|0|0|0|||00:00:00||https://www.strava.com/activities/1433526216
+31.03.2018|50,2|01:31:06|13|0|0|0|0||0|0|331|515|90|127|0|0|0|0||7|01:31:56|Wahoo ELEMNT BOLT|https://www.strava.com/activities/1485377936
+30.03.2018|27,75|01:04:26|76|0|0|0|0||0|0|258|410|81|117|0|0|0|0||10|01:33:29|Wahoo ELEMNT BOLT|https://www.strava.com/activities/1485379703
+29.03.2018|189,1|06:12:30|1,606|0|0|0|0||0|0|305|698|82|153|0|0|0|0||10|06:52:36|Wahoo ELEMNT BOLT|https://www.strava.com/activities/1478140589
+28.03.2018|49,91|01:13:56|145|0|0|0|0||0|0|405|608|85|122|0|0|0|0||5|01:18:59|Wahoo ELEMNT BOLT|https://www.strava.com/activities/1477551089
+26.03.2018|29,99|01:10:32|67|0|0|0|0||0|0|255|400|82|106|0|0|0|0||7|01:46:54|Wahoo ELEMNT BOLT|https://www.strava.com/activities/1474257659
+25.03.2018|255,59|06:12:24|1,759|0|0|0|0||0|0|412|886|84|134|0|0|0|0||12|06:21:32|Wahoo ELEMNT BOLT|https://www.strava.com/activities/1471714059
+24.03.2018|46,46|01:31:59|188|0|0|0|0||0|0|303|576|86|108|0|0|0|0||9|01:47:24|Wahoo ELEMNT BOLT|https://www.strava.com/activities/1470283664
+23.03.2018|142,67|03:56:04|1,116|0|0|0|0||0|0|363|720|82|119|0|0|0|0||6|04:06:06|Wahoo ELEMNT BOLT|https://www.strava.com/activities/1467701151
+21.03.2018|33,25|01:06:28|351|0|0|0|0||0|0|300|565|86|112|0|0|0|0||1|01:06:28|Wahoo ELEMNT BOLT|https://www.strava.com/activities/1465630881
+20.03.2018|135,03|04:06:56|1,02|0|0|0|0||0|0|328|662|88|133|0|0|0|0||6|04:13:46|Wahoo ELEMNT BOLT|https://www.strava.com/activities/1462360304
+19.03.2018|30,96|01:02:10|176|0|0|0|0||0|0|299|464|86|106|0|0|0|0||0|01:02:25|Wahoo ELEMNT BOLT|https://www.strava.com/activities/1462360485
+17.03.2018|301,55|07:49:27|1,98|0|0|0|0||0|0|385|770|82|124|0|0|0|0||9|07:59:21|Wahoo ELEMNT BOLT|https://www.strava.com/activities/1457918986
+16.03.2018|41,69|01:15:13|133|0|0|0|0||0|0|333|565|88|126|0|0|0|0||12|01:16:19|Wahoo ELEMNT BOLT|https://www.strava.com/activities/1457918386
+14.03.2018|49,22|01:50:44|485|0|0|0|0||0|0|267|598|79|112|0|0|0|0||18|02:48:12|Wahoo ELEMNT BOLT|https://www.strava.com/activities/1457918908
+13.03.2018|10,02|00:12:32|3|0|0|0|0||0|0|480|580|95|110|0|0|0|0||15|00:12:32|Wahoo ELEMNT BOLT|https://www.strava.com/activities/1451396775
+13.03.2018|10,86|00:18:36|0|0|0|0|0||0|0|351|472|90|105|0|0|0|0||16|00:19:01|Wahoo ELEMNT BOLT|https://www.strava.com/activities/1451397169
+12.03.2018|153,48|03:55:06|2,059|0|0|0|0||0|0|392|904|85|126|0|0|0|0||11|03:55:59|Wahoo ELEMNT BOLT|https://www.strava.com/activities/1449578789
+12.03.2018|3,68|00:09:12|39|0|0|0|0||0|0|241|400|79|120|0|0|0|0||17|00:24:52|Wahoo ELEMNT BOLT|https://www.strava.com/activities/1449578796
+11.03.2018|179,29|04:40:23|2,211|0|0|0|0||0|0|384|799|81|124|0|0|0|0||11|04:41:01|Wahoo ELEMNT BOLT|https://www.strava.com/activities/1447850918
+11.03.2018|3,64|00:07:26|26|0|0|0|0||0|0|294|454|77|105|0|0|0|0||12|00:07:26|Wahoo ELEMNT BOLT|https://www.strava.com/activities/1447850298
+10.03.2018|219,46|06:47:45|4,754|0|0|0|0||0|0|323|1026|77|127|0|0|0|0||15|06:49:17|Wahoo ELEMNT BOLT|https://www.strava.com/activities/1446177103
+10.03.2018|7,66|00:21:40|67|0|0|0|0||0|0|212|400|71|110|0|0|0|0||13|00:36:15|Wahoo ELEMNT BOLT|https://www.strava.com/activities/1446177064
+09.03.2018|5,34|00:09:02|0|0|0|0|0||0|0|355|612|66|102|0|0|0|0||14|00:09:43|Wahoo ELEMNT BOLT|https://www.strava.com/activities/1444090215
+09.03.2018|238,6|06:30:05|3,371|0|0|0|0||0|0|367|857|80|147|0|0|0|0||17|06:35:06|Wahoo ELEMNT BOLT|https://www.strava.com/activities/1444097500
+09.03.2018|6,95|00:15:50|11|0|0|0|0||0|0|263|385|0|0|0|0|0|0||20|00:24:48|Wahoo ELEMNT BOLT|https://www.strava.com/activities/1444097362
+08.03.2018|174,84|04:20:37|775|0|0|0|0||0|0|403|713|83|127|0|0|0|0||15|04:23:02|Wahoo ELEMNT BOLT|https://www.strava.com/activities/1442525511
+08.03.2018|1,71|00:05:15|13|0|0|0|0||0|0|196|324|67|114|0|0|0|0||17|00:08:15|Wahoo ELEMNT BOLT|https://www.strava.com/activities/1442525302
+07.03.2018|21,68|00:24:35|0|0|0|0|0||0|0|529|612|96|116|0|0|0|0||12|00:24:35|Wahoo ELEMNT BOLT|https://www.strava.com/activities/1440961796
+07.03.2018|17,54|00:29:40|4|0|0|0|0||0|0|355|562|84|114|0|0|0|0||14|00:59:52|Wahoo ELEMNT BOLT|https://www.strava.com/activities/1440962079
+07.03.2018|26,26|00:48:45|0|0|0|0|0||0|0|323|522|85|140|0|0|0|0||11|02:57:59|Wahoo ELEMNT BOLT|https://www.strava.com/activities/1440962554
+06.03.2018|47,11|01:26:42|353|0|0|0|0||0|0|326|695|85|118|0|0|0|0||7|01:30:58|Wahoo ELEMNT BOLT|https://www.strava.com/activities/1438901516
+05.03.2018|35,19|01:02:18|190|0|0|0|0||0|0|339|562|86|108|0|0|0|0||7|01:05:10|Wahoo ELEMNT BOLT|https://www.strava.com/activities/1437205663
+04.03.2018|157,01|05:01:31|1,512|0|0|0|0||0|0|312|652|83|125|0|0|0|0||7|05:22:41|Wahoo ELEMNT BOLT|https://www.strava.com/activities/1435897358
+03.03.2018|48,98|01:59:49|457|0|0|0|0||0|0|245|479|0|0|0|0|0|0||18|02:03:20|Wahoo ELEMNT BOLT|https://www.strava.com/activities/1434179919
+03.03.2018|8,05|00:48:11|0|0|0|0|0||0|0|0|0|0|0|0|0|0|0|||00:00:00||https://www.strava.com/activities/1433526216
+31.05.2018|127,23|04:00:45|688|0|0|0|0||0|0|317|922|82|146|0|0|0|0||33|04:22:42|Wahoo ELEMNT BOLT|https://www.strava.com/activities/1608869530
+29.05.2018|170,02|05:01:20|980|0|0|0|0||0|0|339|990|84|129|0|0|0|0||22|05:11:31|Wahoo ELEMNT BOLT|https://www.strava.com/activities/1604769409
+27.05.2018|107,58|03:16:07|562|0|0|0|0||0|0|329|896|84|192|0|0|0|0||26|03:27:22|Wahoo ELEMNT BOLT|https://www.strava.com/activities/1600595317
+25.05.2018|145,29|05:01:18|2,237|0|0|0|0||0|0|289|918|81|127|0|0|0|0||29|05:15:05|Wahoo ELEMNT BOLT|https://www.strava.com/activities/1595811538
+24.05.2018|133,77|04:01:04|1,079|0|0|0|0||0|0|333|932|82|141|0|0|0|0||28|04:24:27|Wahoo ELEMNT BOLT|https://www.strava.com/activities/1594237930
+23.05.2018|84,95|03:01:23|1,415|0|0|0|0||0|0|281|932|81|217|0|0|0|0||17|03:03:00|Wahoo ELEMNT BOLT|https://www.strava.com/activities/1591691194
+22.05.2018|57,26|01:41:25|139|0|0|0|0||0|0|339|972|83|130|0|0|0|0||24|01:45:57|Wahoo ELEMNT BOLT|https://www.strava.com/activities/1589731229
+21.05.2018|24,95|00:56:37|352|0|0|0|0||0|0|264|612|0|0|0|0|0|0||21|00:57:25|Wahoo ELEMNT BOLT|https://www.strava.com/activities/1589120545
+19.05.2018|150,94|03:30:32|145|0|0|0|0||0|0|430|659|0|0|0|0|0|0||27|03:53:21|Wahoo ELEMNT BOLT|https://www.strava.com/activities/1589122503
+18.05.2018|201,32|06:09:24|4,688|0|0|0|0||0|0|327|1001|77|148|0|0|0|0||24|06:18:30|Wahoo ELEMNT BOLT|https://www.strava.com/activities/1582193076
+17.05.2018|181,36|04:16:53|721|0|0|0|0||0|0|424|806|85|115|0|0|0|0||29|04:17:59|Wahoo ELEMNT BOLT|https://www.strava.com/activities/1578950787
+16.05.2018|34,99|00:47:03|221|0|0|0|0||0|0|446|742|92|122|0|0|0|0||17|00:47:25|Wahoo ELEMNT BOLT|https://www.strava.com/activities/1577098909
+15.05.2018|200,69|05:11:46|2,533|0|0|0|0||0|0|386|875|81|214|0|0|0|0||23|05:12:48|Wahoo ELEMNT BOLT|https://www.strava.com/activities/1577102517
+14.05.2018|179,9|05:16:49|2,923|0|0|0|0||0|0|341|824|78|133|0|0|0|0||25|05:36:17|Wahoo ELEMNT BOLT|https://www.strava.com/activities/1572651081
+12.05.2018|55,73|01:48:02|77|0|0|0|0||0|0|310|522|86|123|0|0|0|0||20|01:55:05|Wahoo ELEMNT BOLT|https://www.strava.com/activities/1568092928
+10.05.2018|26,02|01:00:12|363|0|0|0|0||0|0|259|641|81|108|0|0|0|0||27|01:00:12|Wahoo ELEMNT BOLT|https://www.strava.com/activities/1570806643
+09.05.2018|129,98|04:04:10|696|0|0|0|0||0|0|319|886|82|120|0|0|0|0||26|04:49:34|Wahoo ELEMNT BOLT|https://www.strava.com/activities/1561145388
+08.05.2018|162,42|04:59:43|1,653|0|0|0|0||0|0|325|904|82|124|0|0|0|0||24|05:14:05|Wahoo ELEMNT BOLT|https://www.strava.com/activities/1559072975
+06.05.2018|122,95|04:14:33|2,374|0|0|0|0||0|0|290|886|77|199|0|0|0|0||21|04:35:33|Wahoo ELEMNT BOLT|https://www.strava.com/activities/1554710651
+05.05.2018|107,18|03:14:58|624|0|0|0|0||0|0|330|806|82|134|0|0|0|0||26|03:26:52|Wahoo ELEMNT BOLT|https://www.strava.com/activities/1554070677
+04.05.2018|65,19|02:10:50|530|0|0|0|0||0|0|299|752|85|111|0|0|0|0||22|02:25:27|Wahoo ELEMNT BOLT|https://www.strava.com/activities/1549694413
+01.05.2018|182,33|04:44:00|2,851|0|0|0|0||0|0|385|976|83|137|0|0|0|0||13|04:44:00|Wahoo ELEMNT BOLT|https://www.strava.com/activities/1544534631
+30.06.2018|47,3|01:19:04|103|0|0|0|0||0|0|359|598|89|117|0|0|0|0||27|01:22:33|Wahoo ELEMNT BOLT|https://www.strava.com/activities/1671302709
+29.06.2018|34,94|01:02:18|183|0|0|0|0||0|0|337|533|87|105|0|0|0|0||23|01:02:38|Wahoo ELEMNT BOLT|https://www.strava.com/activities/1671304655
+28.06.2018|180,83|06:01:50|1,878|0|0|0|0||0|0|300|706|83|122|0|0|0|0||27|06:42:17|Wahoo ELEMNT BOLT|https://www.strava.com/activities/1671318206
+27.06.2018|124,98|04:04:21|1,397|0|0|0|0||0|0|307|745|84|141|0|0|0|0||24|04:32:55|Wahoo ELEMNT BOLT|https://www.strava.com/activities/1665448200
+25.06.2018|144,91|04:19:30|597|0|0|0|0||0|0|335|515|88|112|0|0|0|0||17|06:59:35|Wahoo ELEMNT BOLT|https://www.strava.com/activities/1665063892
+24.06.2018|60,01|01:59:59|307|0|0|0|0||0|0|300|569|88|129|0|0|0|0||15|01:59:59|Wahoo ELEMNT BOLT|https://www.strava.com/activities/1658703729
+23.06.2018|0,01|00:00:00|0|0|0|0|0||0|0|12|22|92|108|0|0|0|0||19|00:30:06|Wahoo ELEMNT BOLT|https://www.strava.com/activities/1655997545
+22.06.2018|63,99|02:00:17|466|0|0|0|0||0|0|319|572|87|146|0|0|0|0||12|02:03:14|Wahoo ELEMNT BOLT|https://www.strava.com/activities/1654458156
+20.06.2018|61,13|02:00:07|444|0|0|0|0||0|0|305|652|85|116|0|0|0|0||24|02:01:25|Wahoo ELEMNT BOLT|https://www.strava.com/activities/1650363388
+17.06.2018|22,54|00:34:03|193|0|0|0|0||0|0|397|824|86|154|0|0|0|0||22|00:35:06|Wahoo ELEMNT BOLT|https://www.strava.com/activities/1646113117
+16.06.2018|157,31|04:13:46|2,234|0|0|0|0||0|0|372|803|79|144|0|0|0|0||23|04:32:21|Wahoo ELEMNT BOLT|https://www.strava.com/activities/1642021749
+16.06.2018|3,44|00:06:29|7|0|0|0|0||0|0|319|461|87|103|0|0|0|0||31|00:07:00|Wahoo ELEMNT BOLT|https://www.strava.com/activities/1642020803
+15.06.2018|177,85|04:21:35|1,963|0|0|0|0||0|0|408|907|81|128|0|0|0|0||21|04:22:29|Wahoo ELEMNT BOLT|https://www.strava.com/activities/1640723179
+15.06.2018|3,44|00:08:28|34|0|0|0|0||0|0|244|396|72|100|0|0|0|0||23|00:16:52|Wahoo ELEMNT BOLT|https://www.strava.com/activities/1640722945
+14.06.2018|153,76|03:41:12|1,596|0|0|0|0||0|0|417|882|83|128|0|0|0|0||20|03:42:27|Wahoo ELEMNT BOLT|https://www.strava.com/activities/1638078293
+14.06.2018|4,06|00:10:23|28|0|0|0|0||0|0|235|320|70|114|0|0|0|0||24|00:10:23|Wahoo ELEMNT BOLT|https://www.strava.com/activities/1638078148
+13.06.2018|7,74|00:18:50|4|0|0|0|0||0|0|247|324|81|108|0|0|0|0||20|00:18:50|Wahoo ELEMNT BOLT|https://www.strava.com/activities/1636624053
+13.06.2018|159,28|03:35:30|604|0|0|0|0||0|0|443|763|86|124|0|0|0|0||22|03:35:30|Wahoo ELEMNT BOLT|https://www.strava.com/activities/1636625802
+13.06.2018|3,62|00:10:34|15|0|0|0|0||0|0|206|306|66|102|0|0|0|0||21|00:31:35|Wahoo ELEMNT BOLT|https://www.strava.com/activities/1636625575
+12.06.2018|39,07|01:19:24|45|0|0|0|0||0|0|295|551|84|127|0|0|0|0||33|01:21:32|Wahoo ELEMNT BOLT|https://www.strava.com/activities/1633792138
+11.06.2018|29,94|01:01:42|150|0|0|0|0||0|0|291|500|87|107|0|0|0|0||20|01:02:15|Wahoo ELEMNT BOLT|https://www.strava.com/activities/1631356619
+10.06.2018|209,38|04:58:07|2,248|0|0|0|0||0|0|421|958|84|133|0|0|0|0||24|05:01:17|Wahoo ELEMNT BOLT|https://www.strava.com/activities/1631228248
+10.06.2018|10,87|00:25:39|32|0|0|0|0||0|0|254|410|72|109|0|0|0|0||22|00:45:11|Wahoo ELEMNT BOLT|https://www.strava.com/activities/1631258325
+09.06.2018|42,51|01:21:13|321|0|0|0|0||0|0|314|691|87|131|0|0|0|0||26|01:21:13|Wahoo ELEMNT BOLT|https://www.strava.com/activities/1626770008
+08.06.2018|30,91|01:03:49|149|0|0|0|0||0|0|291|468|83|106|0|0|0|0||18|01:06:43|Wahoo ELEMNT BOLT|https://www.strava.com/activities/1624734283
+07.06.2018|74,9|02:19:58|591|0|0|0|0||0|0|321|612|86|134|0|0|0|0||28|02:21:03|Wahoo ELEMNT BOLT|https://www.strava.com/activities/1622785619
+06.06.2018|61,56|02:00:15|297|0|0|0|0||0|0|307|608|89|137|0|0|0|0||28|02:03:46|Wahoo ELEMNT BOLT|https://www.strava.com/activities/1620727887
+05.06.2018|31,96|01:01:44|152|0|0|0|0||0|0|311|468|86|111|0|0|0|0||17|01:02:40|Wahoo ELEMNT BOLT|https://www.strava.com/activities/1618471678
+03.06.2018|27,49|01:00:04|382|0|0|0|0||0|0|275|702|81|110|0|0|0|0||17|01:07:37|Wahoo ELEMNT BOLT|https://www.strava.com/activities/1618360781
+02.06.2018|137,96|04:04:56|753|0|0|0|0||0|0|338|846|83|139|0|0|0|0||26|04:13:22|Wahoo ELEMNT BOLT|https://www.strava.com/activities/1613259512
+01.06.2018|156,28|06:07:52|3,582|0|0|0|0||0|0|255|1004|75|161|0|0|0|0||29|06:35:45|Wahoo ELEMNT BOLT|https://www.strava.com/activities/1610846440
+21.06.2018|126,18|04:00:22|802|0|0|0|0||0|0|315|616|85|130|0|0|0|0||17|04:03:55|Wahoo ELEMNT BOLT|https://www.strava.com/activities/1652628622
+31.07.2018|66,53|01:40:14|17|0|0|0|0||0|0|398|598|85|133|0|0|0|0||30|02:01:31|Wahoo ELEMNT BOLT|https://www.strava.com/activities/1741738606
+31.07.2018|26,72|00:48:41|2|0|0|0|0||0|0|329|587|81|129|0|0|0|0||35|02:36:47|Wahoo ELEMNT BOLT|https://www.strava.com/activities/1741738838
+31.07.2018|30,1|01:00:20|172|0|0|0|0||0|0|299|482|85|115|0|0|0|0||30|01:01:26|Wahoo ELEMNT BOLT|https://www.strava.com/activities/1739625064
+30.07.2018|47,84|01:09:51|14|0|0|0|0||0|0|411|547|86|139|0|0|0|0||27|01:09:51|Wahoo ELEMNT BOLT|https://www.strava.com/activities/1739523183
+30.07.2018|16,7|00:28:13|20|0|0|0|0||0|0|355|601|84|132|0|0|0|0||30|01:44:44|Wahoo ELEMNT BOLT|https://www.strava.com/activities/1739523398
+30.07.2018|45,15|01:23:50|203|0|0|0|0||0|0|323|522|83|108|0|0|0|0||25|01:23:50|Wahoo ELEMNT BOLT|https://www.strava.com/activities/1739523904
+29.07.2018|183,94|06:00:33|904|0|0|0|0||0|0|306|572|84|117|0|0|0|0||23|06:55:57|Wahoo ELEMNT BOLT|https://www.strava.com/activities/1735530224
+28.07.2018|154,07|05:03:45|982|0|0|0|0||0|0|304|731|84|110|0|0|0|0||24|05:21:24|Wahoo ELEMNT BOLT|https://www.strava.com/activities/1732982126
+27.07.2018|153,8|05:01:05|978|0|0|0|0||0|0|307|745|85|125|0|0|0|0||30|05:19:50|Wahoo ELEMNT BOLT|https://www.strava.com/activities/1731018419
+26.07.2018|30,96|01:06:29|179|0|0|0|0||0|0|279|558|81|123|0|0|0|0||33|02:08:31|Wahoo ELEMNT BOLT|https://www.strava.com/activities/1731018459
+25.07.2018|214,9|07:09:48|883|0|0|0|0||0|0|300|598|84|111|0|0|0|0||29|08:15:25|Wahoo ELEMNT BOLT|https://www.strava.com/activities/1726948922
+24.07.2018|149,89|05:01:13|1,273|0|0|0|0||0|0|299|691|83|115|0|0|0|0||31|05:17:04|Wahoo ELEMNT BOLT|https://www.strava.com/activities/1724464842
+23.07.2018|157,8|05:02:22|756|0|0|0|0||0|0|313|583|85|254|0|0|0|0||27|05:26:13|Wahoo ELEMNT BOLT|https://www.strava.com/activities/1722285389
+19.07.2018|94,34|03:02:36|2,405|0|0|0|0||0|0|310|835|77|120|0|0|0|0||34|03:02:36|Wahoo ELEMNT BOLT|https://www.strava.com/activities/1713475189
+19.07.2018|7,81|00:13:49|41|0|0|0|0||0|0|339|522|70|107|0|0|0|0||34|00:13:49|Wahoo ELEMNT BOLT|https://www.strava.com/activities/1713474339
+18.07.2018|109,36|04:10:57|3,834|0|0|0|0||0|0|261|950|72|134|0|0|0|0||31|04:13:49|Wahoo ELEMNT BOLT|https://www.strava.com/activities/1711777261
+18.07.2018|1,56|00:05:10|66|0|0|0|0||0|0|181|281|73|93|0|0|0|0||39|00:05:10|Wahoo ELEMNT BOLT|https://www.strava.com/activities/1711776918
+18.07.2018|2,45|00:09:14|9|0|0|0|0||0|0|160|274|59|95|0|0|0|0||32|00:11:46|Wahoo ELEMNT BOLT|https://www.strava.com/activities/1711777049
+17.07.2018|158,66|05:05:14|3,806|0|0|0|0||0|0|312|893|74|134|0|0|0|0||26|05:05:14|Wahoo ELEMNT BOLT|https://www.strava.com/activities/1708894735
+17.07.2018|13,18|00:28:06|42|0|0|0|0||0|0|281|418|74|106|0|0|0|0||34|01:06:35|Wahoo ELEMNT BOLT|https://www.strava.com/activities/1719755383
+16.07.2018|46,5|01:33:42|542|0|0|0|0||0|0|298|641|82|118|0|0|0|0||25|01:37:31|Wahoo ELEMNT BOLT|https://www.strava.com/activities/1719756238
+15.07.2018|155,31|03:32:02|594|0|0|0|0||0|0|439|688|82|143|0|0|0|0||33|03:32:27|Wahoo ELEMNT BOLT|https://www.strava.com/activities/1704922276
+15.07.2018|7,57|00:15:02|44|0|0|0|0||0|0|302|504|73|110|0|0|0|0||38|00:15:02|Wahoo ELEMNT BOLT|https://www.strava.com/activities/1704921996
+14.07.2018|180,72|04:28:57|1,343|0|0|0|0||0|0|403|781|78|132|0|0|0|0||31|04:30:18|Wahoo ELEMNT BOLT|https://www.strava.com/activities/1704925112
+14.07.2018|6,98|00:16:06|47|0|0|0|0||0|0|260|374|67|101|0|0|0|0||35|00:16:06|Wahoo ELEMNT BOLT|https://www.strava.com/activities/1704924772
+13.07.2018|231,26|05:47:31|2,439|0|0|0|0||0|0|399|810|78|131|0|0|0|0||28|05:47:31|Wahoo ELEMNT BOLT|https://www.strava.com/activities/1701081750
+13.07.2018|9,03|00:23:03|120|0|0|0|0||0|0|235|569|63|111|0|0|0|0||29|00:55:17|Wahoo ELEMNT BOLT|https://www.strava.com/activities/1701081594
+12.07.2018|182,89|04:35:31|2,046|0|0|0|0||0|0|398|907|81|139|0|0|0|0||27|04:36:26|Wahoo ELEMNT BOLT|https://www.strava.com/activities/1697861043
+12.07.2018|10,21|00:23:57|152|0|0|0|0||0|0|256|479|71|109|0|0|0|0||31|00:44:10|Wahoo ELEMNT BOLT|https://www.strava.com/activities/1697859978
+11.07.2018|204,27|05:12:30|2,932|0|0|0|0||0|0|392|965|80|126|0|0|0|0||27|05:12:30|Wahoo ELEMNT BOLT|https://www.strava.com/activities/1696268703
+11.07.2018|10,54|00:23:49|98|0|0|0|0||0|0|266|547|73|111|0|0|0|0||27|00:58:55|Wahoo ELEMNT BOLT|https://www.strava.com/activities/1696260576
+10.07.2018|195,17|04:29:28|1,297|0|0|0|0||0|0|435|709|83|121|0|0|0|0||31|04:30:07|Wahoo ELEMNT BOLT|https://www.strava.com/activities/1696263413
+10.07.2018|9,18|00:19:57|27|0|0|0|0||0|0|276|353|75|113|0|0|0|0||35|00:25:28|Wahoo ELEMNT BOLT|https://www.strava.com/activities/1696263125
+09.07.2018|35,95|00:45:56|341|0|0|0|0||0|0|470|871|93|123|0|0|0|0||28|00:45:56|Wahoo ELEMNT BOLT|https://www.strava.com/activities/1691266133
+09.07.2018|38,65|01:01:53|355|0|0|0|0||0|0|375|846|83|120|0|0|0|0||28|01:06:48|Wahoo ELEMNT BOLT|https://www.strava.com/activities/1690868937
+08.07.2018|183,99|04:15:26|1,543|0|0|0|0||0|0|432|799|82|139|0|0|0|0||35|04:15:49|Wahoo ELEMNT BOLT|https://www.strava.com/activities/1689810021
+08.07.2018|7,72|00:27:41|72|0|0|0|0||0|0|167|551|55|102|0|0|0|0||35|01:03:16|Wahoo ELEMNT BOLT|https://www.strava.com/activities/1689807881
+07.07.2018|198,79|04:26:27|438|0|0|0|0||0|0|448|716|83|123|0|0|0|0||33|04:28:30|Wahoo ELEMNT BOLT|https://www.strava.com/activities/1686914696
+07.07.2018|5,24|00:10:41|0|0|0|0|0||0|0|294|371|79|111|0|0|0|0||32|00:10:41|Wahoo ELEMNT BOLT|https://www.strava.com/activities/1686914354
+06.07.2018|46,31|01:27:50|406|0|0|0|0||0|0|316|547|84|123|0|0|0|0||22|01:29:52|Wahoo ELEMNT BOLT|https://www.strava.com/activities/1684855982
+05.07.2018|35,83|01:03:24|359|0|0|0|0||0|0|339|720|79|111|0|0|0|0||23|01:10:44|Wahoo ELEMNT BOLT|https://www.strava.com/activities/1684040659
+02.07.2018|37,1|01:00:48|202|0|0|0|0||0|0|366|554|87|109|0|0|0|0||23|01:00:48|Wahoo ELEMNT BOLT|https://www.strava.com/activities/1719739076
+01.07.2018|228,48|04:57:52|229|0|0|0|0||0|0|460|698|87|120|0|0|0|0||29|05:04:50|Wahoo ELEMNT BOLT|https://www.strava.com/activities/1677750281
+31.08.2018|59,11|02:25:24|426|0|0|0|0||0|0|244|648|78|117|0|0|0|0||16|02:27:22|Wahoo ELEMNT BOLT|https://www.strava.com/activities/1811764001
+30.08.2018|200,91|06:31:14|1,121|0|0|0|0||0|0|308|637|83|126|0|0|0|0||18|07:04:50|Wahoo ELEMNT BOLT|https://www.strava.com/activities/1807653375
+29.08.2018|71,93|02:23:28|504|0|0|0|0||0|0|301|756|84|146|0|0|0|0||26|02:27:12|Wahoo ELEMNT BOLT|https://www.strava.com/activities/1806951981
+28.08.2018|32,95|01:05:38|186|0|0|0|0||0|0|301|482|83|105|0|0|0|0||19|01:05:38|Wahoo ELEMNT BOLT|https://www.strava.com/activities/1804831914
+26.08.2018|207,62|04:59:52|2,648|0|0|0|0||0|0|415|875|84|127|0|0|0|0||21|04:59:52|Wahoo ELEMNT BOLT|https://www.strava.com/activities/1799991549
+23.08.2018|162,89|03:53:39|1,253|0|0|0|0||0|0|418|979|81|133|0|0|0|0||30|03:57:29|Wahoo ELEMNT BOLT|https://www.strava.com/activities/1792152674
+22.08.2018|51,23|01:42:07|360|0|0|0|0||0|0|301|616|86|134|0|0|0|0||32|01:48:38|Wahoo ELEMNT BOLT|https://www.strava.com/activities/1789774217
+21.08.2018|32,02|01:01:43|193|0|0|0|0||0|0|311|482|89|109|0|0|0|0||18|01:01:58|Wahoo ELEMNT BOLT|https://www.strava.com/activities/1786846112
+19.08.2018|209,8|04:59:49|2,207|0|0|0|0||0|0|420|893|81|254|0|0|0|0||23|05:00:16|Wahoo ELEMNT BOLT|https://www.strava.com/activities/1783464595
+19.08.2018|3,37|00:08:58|12|0|0|0|0||0|0|225|508|62|99|0|0|0|0||25|00:21:32|Wahoo ELEMNT BOLT|https://www.strava.com/activities/1783463934
+18.08.2018|181,86|04:25:29|1,587|0|0|0|0||0|0|411|1080|80|131|0|0|0|0||24|04:25:29|Wahoo ELEMNT BOLT|https://www.strava.com/activities/1783468956
+18.08.2018|6,47|00:16:11|30|0|0|0|0||0|0|240|446|68|110|0|0|0|0||30|00:18:31|Wahoo ELEMNT BOLT|https://www.strava.com/activities/1783468707
+17.08.2018|205,79|04:48:12|1,348|0|0|0|0||0|0|428|749|81|254|0|0|0|0||24|07:37:36|Wahoo ELEMNT BOLT|https://www.strava.com/activities/1778721997
+17.08.2018|5,56|00:14:37|60|0|0|0|0||0|0|229|421|66|107|0|0|0|0||28|00:53:36|Wahoo ELEMNT BOLT|https://www.strava.com/activities/1778721448
+16.08.2018|166,66|03:48:02|321|0|0|0|0||0|0|439|792|80|121|0|0|0|0||27|03:49:19|Wahoo ELEMNT BOLT|https://www.strava.com/activities/1776301696
+16.08.2018|8,75|00:17:01|7|0|0|0|0||0|0|308|421|73|116|0|0|0|0||23|00:17:01|Wahoo ELEMNT BOLT|https://www.strava.com/activities/1776301691
+15.08.2018|175,24|03:53:25|217|0|0|0|0||0|0|450|691|84|128|0|0|0|0||22|03:53:25|Wahoo ELEMNT BOLT|https://www.strava.com/activities/1774274177
+15.08.2018|2,92|00:05:52|5|0|0|0|0||0|0|299|400|64|111|0|0|0|0||22|00:05:52|Wahoo ELEMNT BOLT|https://www.strava.com/activities/1774273941
+14.08.2018|14,22|00:19:42|12|0|0|0|0||0|0|433|576|95|115|0|0|0|0||23|00:23:09|Wahoo ELEMNT BOLT|https://www.strava.com/activities/1771345390
+14.08.2018|28,43|00:46:11|13|0|0|0|0||0|0|369|504|89|115|0|0|0|0||20|00:46:45|Wahoo ELEMNT BOLT|https://www.strava.com/activities/1771345578
+12.08.2018|231,66|05:59:05|2,626|0|0|0|0||0|0|387|832|80|134|0|0|0|0||12|06:00:26|Wahoo ELEMNT BOLT|https://www.strava.com/activities/1768764000
+12.08.2018|5,92|00:18:24|10|0|0|0|0||0|0|193|310|64|101|0|0|0|0||14|00:35:35|Wahoo ELEMNT BOLT|https://www.strava.com/activities/1768763584
+11.08.2018|48,24|01:36:39|721|0|0|0|0||0|0|299|670|82|118|0|0|0|0||16|01:46:41|Wahoo ELEMNT BOLT|https://www.strava.com/activities/1764505372
+10.08.2018|30,11|01:01:20|156|0|0|0|0||0|0|295|518|0|0|0|0|0|0||14|01:02:18|Wahoo ELEMNT BOLT|https://www.strava.com/activities/1764505414
+09.08.2018|141,14|04:00:39|784|0|0|0|0||0|0|352|630|87|114|0|0|0|0||25|04:17:20|Wahoo ELEMNT BOLT|https://www.strava.com/activities/1771005853
+08.08.2018|185,81|06:02:44|2,055|0|0|0|0||0|0|307|814|81|152|0|0|0|0||26|06:42:40|Wahoo ELEMNT BOLT|https://www.strava.com/activities/1771009170
+07.08.2018|55,19|01:53:31|203|0|0|0|0||0|0|292|590|83|107|0|0|0|0||32|02:28:18|Wahoo ELEMNT BOLT|https://www.strava.com/activities/1771009643
+06.08.2018|29,97|01:00:06|175|0|0|0|0||0|0|299|522|86|109|0|0|0|0||26|01:01:38|Wahoo ELEMNT BOLT|https://www.strava.com/activities/1753388968
+05.08.2018|42,92|01:00:36|199|0|0|0|0||0|0|425|612|84|125|0|0|0|0||23|01:14:49|Wahoo ELEMNT BOLT|https://www.strava.com/activities/1753389306
+05.08.2018|70,5|01:35:08|352|0|0|0|0||0|0|445|612|91|119|0|0|0|0||25|01:42:42|Wahoo ELEMNT BOLT|https://www.strava.com/activities/1753389938
+05.08.2018|57,4|01:52:48|350|0|0|0|0||0|0|305|716|85|114|0|0|0|0||28|03:06:46|Wahoo ELEMNT BOLT|https://www.strava.com/activities/1753390554
+04.08.2018|47,79|01:22:23|186|0|0|0|0||0|0|348|594|82|168|0|0|0|0||34|03:27:32|Wahoo ELEMNT BOLT|https://www.strava.com/activities/1750982963
+03.08.2018|60,12|01:30:16|5|0|0|0|0||0|0|400|547|78|128|0|0|0|0||29|01:30:16|Wahoo ELEMNT BOLT|https://www.strava.com/activities/1748239864
+03.08.2018|18,39|00:30:15|0|0|0|0|0||0|0|365|536|79|130|0|0|0|0||31|01:24:10|Wahoo ELEMNT BOLT|https://www.strava.com/activities/1748239786
+03.08.2018|85,16|02:42:00|550|0|0|0|0||0|0|315|630|85|105|0|0|0|0||28|02:42:51|Wahoo ELEMNT BOLT|https://www.strava.com/activities/1748241131
+01.08.2018|75,08|01:51:22|149|0|0|0|0||0|0|405|623|84|133|0|0|0|0||27|02:11:10|Wahoo ELEMNT BOLT|https://www.strava.com/activities/1744225926
+01.08.2018|51,52|01:40:54|273|0|0|0|0||0|0|306|486|86|111|0|0|0|0||27|01:41:16|Wahoo ELEMNT BOLT|https://www.strava.com/activities/1744226307
+30.09.2018|63,11|02:01:36|319|0|0|0|0||0|0|311|518|0|0|0|0|0|0||13|02:25:26|Wahoo ELEMNT BOLT|https://www.strava.com/activities/1879736879
+29.09.2018|99,99|03:19:53|691|0|0|0|0||0|0|300|680|0|0|0|0|0|0||12|04:00:40|Wahoo ELEMNT BOLT|https://www.strava.com/activities/1879738990
+27.09.2018|120,8|04:01:13|1,518|0|0|0|0||0|0|300|684|0|0|0|0|0|0||18|04:01:31|Wahoo ELEMNT BOLT|https://www.strava.com/activities/1868781770
+26.09.2018|10,03|01:02:07|0|0|0|0|0||0|0|0|0|0|0|0|0|0|0|||00:00:00||https://www.strava.com/activities/1866865313
+25.09.2018|62,11|02:01:24|439|0|0|0|0||0|0|307|533|0|0|0|0|0|0||13|02:04:47|Wahoo ELEMNT BOLT|https://www.strava.com/activities/1864602380
+22.09.2018|10,03|00:56:13|0|0|0|0|0||0|0|0|0|0|0|0|0|0|0|||00:00:00||https://www.strava.com/activities/1857792819
+20.09.2018|40,22|01:23:18|152|0|0|0|0||0|0|290|536|0|0|0|0|0|0||24|01:30:47|Wahoo ELEMNT BOLT|https://www.strava.com/activities/1864273267
+18.09.2018|259,76|08:16:43|2,456|0|0|0|0||0|0|314|731|84|116|0|0|0|0||27|09:08:21|Wahoo ELEMNT BOLT|https://www.strava.com/activities/1850133494
+17.09.2018|28,85|01:13:29|278|0|0|0|0||0|0|236|554|71|109|0|0|0|0||25|01:19:31|Wahoo ELEMNT BOLT|https://www.strava.com/activities/1849111403
+16.09.2018|5,25|00:29:06|0|0|0|0|0||0|0|0|0|0|0|0|0|0|0|||00:00:00||https://www.strava.com/activities/1846522615
+13.09.2018|104,95|03:36:10|708|0|0|0|0||0|0|291|641|82|114|0|0|0|0||14|03:49:28|Wahoo ELEMNT BOLT|https://www.strava.com/activities/1849112741
+12.09.2018|45,02|01:35:04|97|0|0|0|0||0|0|284|418|84|116|0|0|0|0||15|01:43:54|Wahoo ELEMNT BOLT|https://www.strava.com/activities/1838395592
+11.09.2018|40,13|01:17:39|198|0|0|0|0||0|0|310|511|87|118|0|0|0|0||20|01:17:57|Wahoo ELEMNT BOLT|https://www.strava.com/activities/1849112800
+08.09.2018|215,78|05:02:45|1,953|0|0|0|0||0|0|428|781|83|124|0|0|0|0||13|05:03:11|Wahoo ELEMNT BOLT|https://www.strava.com/activities/1831803334
+08.09.2018|11,55|00:19:35|28|0|0|0|0||0|0|354|497|82|110|0|0|0|0||15|00:19:35|Wahoo ELEMNT BOLT|https://www.strava.com/activities/1831804319
+07.09.2018|172,5|04:17:07|2,478|0|0|0|0||0|0|403|871|84|130|0|0|0|0||13|04:18:23|Wahoo ELEMNT BOLT|https://www.strava.com/activities/1831805815
+07.09.2018|9,99|00:17:35|64|0|0|0|0||0|0|341|475|79|117|0|0|0|0||19|00:17:35|Wahoo ELEMNT BOLT|https://www.strava.com/activities/1831805793
+06.09.2018|15|00:30:55|347|0|0|0|0||0|0|291|684|84|113|0|0|0|0||15|00:35:56|Wahoo ELEMNT BOLT|https://www.strava.com/activities/1823069138
+05.09.2018|183,51|04:25:02|1,935|0|0|0|0||0|0|415|864|82|139|0|0|0|0||18|04:26:08|Wahoo ELEMNT BOLT|https://www.strava.com/activities/1823071489
+05.09.2018|7,19|00:13:41|65|0|0|0|0||0|0|315|569|74|103|0|0|0|0||18|00:13:41|Wahoo ELEMNT BOLT|https://www.strava.com/activities/1823071150
+04.09.2018|127,08|02:55:34|1,485|0|0|0|0||0|0|434|886|85|134|0|0|0|0||14|02:55:34|Wahoo ELEMNT BOLT|https://www.strava.com/activities/1819680675
+04.09.2018|7,13|00:16:21|100|0|0|0|0||0|0|262|472|69|106|0|0|0|0||14|00:45:25|Wahoo ELEMNT BOLT|https://www.strava.com/activities/1819680613
+03.09.2018|174,97|04:24:10|2,549|0|0|0|0||0|0|397|835|82|124|0|0|0|0||19|04:25:34|Wahoo ELEMNT BOLT|https://www.strava.com/activities/1819687092
+03.09.2018|8,5|00:18:46|152|0|0|0|0||0|0|272|544|73|109|0|0|0|0||27|00:47:02|Wahoo ELEMNT BOLT|https://www.strava.com/activities/1819690412
+02.09.2018|175,33|04:03:28|1,621|0|0|0|0||0|0|432|778|84|154|0|0|0|0||23|04:03:28|Wahoo ELEMNT BOLT|https://www.strava.com/activities/1815069153
+02.09.2018|6,42|00:16:29|14|0|0|0|0||0|0|234|360|64|104|0|0|0|0||21|00:53:06|Wahoo ELEMNT BOLT|https://www.strava.com/activities/1815069084
+01.09.2018|20,55|00:44:49|110|0|0|0|0||0|0|275|547|82|127|0|0|0|0||20|00:49:37|Wahoo ELEMNT BOLT|https://www.strava.com/activities/1811900271
+31.10.2018|60,96|02:00:46|244|0|0|0|0||0|0|303|544|87|110|0|0|0|0||6|02:02:46|Wahoo ELEMNT BOLT|https://www.strava.com/activities/1938997301
+26.10.2018|152|05:07:08|1,503|0|0|0|0||0|0|297|688|82|119|0|0|0|0||20|06:23:00|Wahoo ELEMNT BOLT|https://www.strava.com/activities/1939312204
+25.10.2018|72,33|02:43:40|1,012|0|0|0|0||0|0|265|738|80|254|0|0|0|0||23|04:16:19|Wahoo ELEMNT BOLT|https://www.strava.com/activities/1939313225
+24.10.2018|28,79|01:11:32|279|0|0|0|0||0|0|241|551|67|119|0|0|0|0||26|02:22:21|Wahoo ELEMNT BOLT|https://www.strava.com/activities/1939313376
+23.10.2018|115,4|03:53:19|817|0|0|0|0||0|0|297|691|82|139|0|0|0|0||22|05:17:54|Wahoo ELEMNT BOLT|https://www.strava.com/activities/1939315830
+22.10.2018|97,74|03:48:28|1,139|0|0|0|0||0|0|257|648|77|254|0|0|0|0||23|04:55:12|Wahoo ELEMNT BOLT|https://www.strava.com/activities/1939316483
+21.10.2018|124,37|04:18:22|1,397|0|0|0|0||0|0|289|670|0|0|0|0|0|0||23|04:56:03|Wahoo ELEMNT BOLT|https://www.strava.com/activities/1920247741
+15.10.2018|11,24|00:59:52|0|0|0|0|0||0|0|0|0|0|0|0|0|0|0|||00:00:00||https://www.strava.com/activities/1905944632
+12.10.2018|8,24|00:44:45|0|0|0|0|0||0|0|0|0|0|0|0|0|0|0|||00:00:00||https://www.strava.com/activities/1900348933
+03.10.2018|207,6|04:39:39|856|0|0|0|0||0|0|445|799|85|124|0|0|0|0||14|04:40:04|Wahoo ELEMNT BOLT|https://www.strava.com/activities/1881995697
+03.10.2018|5,73|00:14:02|71|0|0|0|0||0|0|245|418|79|120|0|0|0|0||15|00:31:34|Wahoo ELEMNT BOLT|https://www.strava.com/activities/1881995139
+01.10.2018|30,12|01:01:35|213|0|0|0|0||0|0|293|500|0|0|0|0|0|0||10|01:02:43|Wahoo ELEMNT BOLT|https://www.strava.com/activities/1879735551
+30.11.2018|40,97|01:20:33|653|0|0|0|0||0|0|305|875|85|123|0|0|0|0|||01:20:33|Zwift|https://www.strava.com/activities/1992402844
+29.11.2018|41,25|01:15:35|369|0|0|0|0||0|0|327|572|85|108|0|0|0|0|||01:16:43|Zwift|https://www.strava.com/activities/1991040216
+29.11.2018|31,24|01:03:11|794|0|0|0|0||0|0|297|853|87|116|0|0|0|0|||01:03:11|Zwift|https://www.strava.com/activities/1990735779
+28.11.2018|37|01:15:28|689|0|0|0|0||0|0|294|889|87|111|0|0|0|0|||01:15:28|Zwift|https://www.strava.com/activities/1989066660
+27.11.2018|43,69|01:15:14|353|0|0|0|0||0|0|349|688|86|105|0|0|0|0|||01:15:14|Zwift|https://www.strava.com/activities/1987952264
+27.11.2018|3,07|00:05:09|3|0|0|0|0||0|0|358|472|81|106|0|0|0|0|||00:05:09|Zwift|https://www.strava.com/activities/1987820958
+27.11.2018|17,78|00:30:16|126|0|0|0|0||0|0|353|637|91|121|0|0|0|0|||00:30:16|Zwift|https://www.strava.com/activities/1987282177
+27.11.2018|31,4|00:56:40|238|0|0|0|0||0|0|333|641|97|112|0|0|0|0|||00:56:40|Zwift|https://www.strava.com/activities/1987247271
+25.11.2018|31,28|01:00:39|513|0|0|0|0||0|0|309|760|87|111|0|0|0|0|||01:00:39|Zwift|https://www.strava.com/activities/1984394111
+25.11.2018|50,27|01:30:24|448|0|0|0|0||0|0|334|734|90|123|0|0|0|0|||01:31:30|Zwift|https://www.strava.com/activities/1983703445
+24.11.2018|34|01:00:42|298|0|0|0|0||0|0|336|763|91|118|0|0|0|0|||01:02:24|Zwift|https://www.strava.com/activities/1983702605
+22.11.2018|25,75|00:48:51|374|0|0|0|0||0|0|316|749|88|124|0|0|0|0|||00:48:51|Zwift|https://www.strava.com/activities/1983701709
+13.11.2018|109,52|03:36:56|486|0|0|0|0||0|0|303|677|0|0|0|0|0|0||11|06:25:16|Wahoo ELEMNT BOLT|https://www.strava.com/activities/1970012836
+12.11.2018|3,11|00:17:25|0|0|0|0|0||0|0|0|0|0|0|0|0|0|0|||00:00:00||https://www.strava.com/activities/1960577970
+12.11.2018|100,02|03:18:02|391|0|0|0|0||0|0|303|529|0|0|0|0|0|0||13|03:29:04|Wahoo ELEMNT|https://www.strava.com/activities/1960310689
+11.11.2018|142,05|04:29:09|1,028|0|0|0|0||0|0|317|817|0|0|0|0|0|0||12|04:55:04|Wahoo ELEMNT|https://www.strava.com/activities/1960065215
+10.11.2018|8,03|00:45:14|0|0|0|0|0||0|0|0|0|0|0|0|0|0|0|||00:00:00||https://www.strava.com/activities/1956827222
+10.11.2018|42,03|02:04:04|246|0|0|0|0||0|0|203|576|0|0|0|0|0|0||11|02:13:03|Wahoo ELEMNT|https://www.strava.com/activities/1957813363
+09.11.2018|26,05|01:14:52|171|0|0|0|0||0|0|209|464|0|0|0|0|0|0||13|01:20:47|Wahoo ELEMNT|https://www.strava.com/activities/1955843445
+08.11.2018|121,8|04:06:15|1,019|0|0|0|0||0|0|297|655|69|254|0|0|0|0||11|04:53:35|Wahoo ELEMNT BOLT|https://www.strava.com/activities/1955850411
+07.11.2018|102,09|03:16:32|362|0|0|0|0||0|0|312|1134|88|123|0|0|0|0||13|03:45:24|Wahoo ELEMNT BOLT|https://www.strava.com/activities/1955850986
+31.12.2018|112,19|03:34:05|648|0|0|0|0||0|0|314|626|85|116|0|0|0|0||7|03:44:23|Wahoo ELEMNT|https://www.strava.com/activities/2046367570
+30.12.2018|153,84|05:02:19|1,305|0|0|0|0||0|0|305|670|85|112|0|0|0|0||5|05:07:24|Wahoo ELEMNT|https://www.strava.com/activities/2044521009
+29.12.2018|93,17|02:59:58|606|0|0|0|0||0|0|311|536|84|107|0|0|0|0||4|03:05:49|Wahoo ELEMNT|https://www.strava.com/activities/2041908983
+28.12.2018|43,93|01:32:37|216|0|0|0|0||0|0|285|504|86|111|0|0|0|0||0|01:33:49|Wahoo ELEMNT|https://www.strava.com/activities/2041909697
+27.12.2018|120,15|04:23:15|814|0|0|0|0||0|0|274|558|82|109|0|0|0|0||2|04:41:22|Wahoo ELEMNT|https://www.strava.com/activities/2038812587
+26.12.2018|6,08|00:35:46|0|0|0|0|0||0|0|0|0|0|0|0|0|0|0|||00:00:00||https://www.strava.com/activities/2036078941
+25.12.2018|64,88|02:10:58|543|0|0|0|0||0|0|297|652|88|114|0|0|0|0||4|02:11:34|Wahoo ELEMNT|https://www.strava.com/activities/2038810329
+22.12.2018|133,08|04:04:01|908|0|0|0|0||0|0|327|598|85|133|0|0|0|0||16|04:28:56|Wahoo ELEMNT|https://www.strava.com/activities/2029622042
+21.12.2018|150,43|05:08:00|1,677|0|0|0|0||0|0|293|673|81|122|0|0|0|0||13|05:58:19|Wahoo ELEMNT|https://www.strava.com/activities/2028272843
+20.12.2018|132,09|04:16:40|1,008|0|0|0|0||0|0|309|612|83|118|0|0|0|0||13|05:10:16|Wahoo ELEMNT|https://www.strava.com/activities/2026678908
+19.12.2018|100,98|03:21:14|609|0|0|0|0||0|0|301|479|84|111|0|0|0|0||15|04:32:07|Wahoo ELEMNT|https://www.strava.com/activities/2026679564
+17.12.2018|162,51|05:00:46|1,607|0|0|0|0||0|0|324|749|82|254|0|0|0|0||14|05:35:07|Wahoo ELEMNT|https://www.strava.com/activities/2026786430
+16.12.2018|189,89|06:01:26|2,494|0|0|0|0||0|0|315|727|79|118|0|0|0|0||14|06:16:42|Wahoo ELEMNT|https://www.strava.com/activities/2020419087
+15.12.2018|145,16|04:33:09|734|0|0|0|0||0|0|319|623|82|206|0|0|0|0||15|05:04:59|Wahoo ELEMNT|https://www.strava.com/activities/2019438745
+14.12.2018|151,08|04:30:11|1,206|0|0|0|0||0|0|336|745|85|122|0|0|0|0||12|04:46:16|Wahoo ELEMNT|https://www.strava.com/activities/2017167646
+13.12.2018|60,09|02:22:33|1,143|0|0|0|0||0|0|253|634|75|254|0|0|0|0||13|03:05:54|Wahoo ELEMNT|https://www.strava.com/activities/2016399487
+12.12.2018|26,03|01:00:03|294|0|0|0|0||0|0|260|605|76|113|0|0|0|0||18|01:51:39|Wahoo ELEMNT|https://www.strava.com/activities/2013337516
+11.12.2018|185,79|06:05:06|2,133|0|0|0|0||0|0|305|731|78|133|0|0|0|0||14|06:18:15|Wahoo ELEMNT|https://www.strava.com/activities/2011850497
+10.12.2018|201,95|05:59:55|1,675|0|0|0|0||0|0|337|680|87|127|0|0|0|0||14|06:15:53|Wahoo ELEMNT|https://www.strava.com/activities/2010138172
+09.12.2018|162,86|05:06:03|1,701|0|0|0|0||0|0|319|677|80|135|0|0|0|0||17|05:34:37|Wahoo ELEMNT|https://www.strava.com/activities/2008547138
+06.12.2018|90,94|03:02:22|387|0|0|0|0||0|0|299|490|86|112|0|0|0|0||9|03:05:33|Wahoo ELEMNT BOLT|https://www.strava.com/activities/2003002452
+05.12.2018|47,47|01:35:37|237|0|0|0|0||0|0|298|547|87|137|0|0|0|0||2|01:38:11|Wahoo ELEMNT BOLT|https://www.strava.com/activities/2001192693
+04.12.2018|92,65|03:02:33|517|0|0|0|0||0|0|305|572|81|115|0|0|0|0||6|03:10:49|Wahoo ELEMNT BOLT|https://www.strava.com/activities/1999485727
+03.12.2018|119,98|04:09:53|708|0|0|0|0||0|0|288|644|85|168|0|0|0|0||10|04:13:59|Wahoo ELEMNT BOLT|https://www.strava.com/activities/2007235881
+02.12.2018|45,31|01:17:07|362|0|0|0|0||0|0|353|673|86|124|0|0|0|0|||01:17:07|Zwift|https://www.strava.com/activities/1996403640
+02.12.2018|33,65|01:05:19|675|0|0|0|0||0|0|309|904|77|109|0|0|0|0|||01:05:58|Zwift|https://www.strava.com/activities/1995805931
+01.12.2018|45,19|01:17:29|379|0|0|0|0||0|0|350|587|85|106|0|0|0|0|||01:17:29|Zwift|https://www.strava.com/activities/1994693722
+01.12.2018|57,06|01:35:28|459|0|0|0|0||0|0|359|688|88|117|0|0|0|0|||01:35:28|Zwift|https://www.strava.com/activities/1993918534
+loaded urls in 8.04:15:57.7318994

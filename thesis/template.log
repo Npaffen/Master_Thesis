@@ -1,0 +1,30 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 20.7) (preloaded format=pdflatex 2021.3.14)  28 SEP 2021 12:29
+entering extended mode
+**./template.tex
+(template.tex
+LaTeX2e <2020-02-02> patch level 5
+L3 programming layer <2020-09-03>
+
+! LaTeX Error: File `$documentclass$.cls' not found.
+
+Type X to quit or <RETURN> to proceed,
+or enter new name. (Default extension: cls)
+
+Enter file name: 
+! Emergency stop.
+<read *> 
+         
+l.2 $
+     if(fontfamily)$
+*** (cannot \read from terminal in nonstop modes)
+
+ 
+Here is how much of TeX's memory you used:
+ 24 strings out of 481165
+ 566 string characters out of 2902574
+ 243348 words of memory out of 3000000
+ 15741 multiletter control sequences out of 15000+200000
+ 535088 words of font info for 29 fonts, out of 3000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 20i,0n,25p,214b,10s stack positions out of 5000i,500n,10000p,200000b,50000s
+!  ==> Fatal error occurred, no output PDF file produced!
