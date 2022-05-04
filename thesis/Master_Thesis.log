@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.3) (preloaded format=pdflatex 2022.5.2)  3 MAY 2022 15:47
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.3) (preloaded format=pdflatex 2022.5.2)  4 MAY 2022 07:58
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -2117,7 +2117,7 @@ Package logreq Info: Writing requests to 'Master_Thesis.run.xml'.
  ) 
 Here is how much of TeX's memory you used:
  31700 strings out of 478536
- 580092 string characters out of 2839937
+ 580342 string characters out of 2839937
  1466386 words of memory out of 3000000
  48284 multiletter control sequences out of 15000+600000
  753300 words of font info for 689 fonts, out of 8000000 for 9000
@@ -2141,7 +2141,7 @@ i8a.pfb><C:/Users/Nils/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/adobe/utop
 ia/putr8a.pfb><C:/Users/Nils/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/adob
 e/utopia/putri8a.pfb><C:/Users/Nils/AppData/Local/Programs/MiKTeX 2.9/fonts/typ
 e1/urw/zapfding/uzdr.pfb>
-Output written on Master_Thesis.pdf (67 pages, 1336498 bytes).
+Output written on Master_Thesis.pdf (67 pages, 1336497 bytes).
 PDF statistics:
  1276 PDF objects out of 1440 (max. 8388607)
  254 named destinations out of 1000 (max. 500000)

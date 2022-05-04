@@ -1,30 +1,30 @@
 [0] Config.pm:307> INFO - This is Biber 2.17
 [0] Config.pm:310> INFO - Logfile is 'Master_Thesis.blg'
-[172] biber-MSWIN64:340> INFO - === 
-[230] Biber.pm:418> INFO - Reading 'Master_Thesis.bcf'
-[454] Biber.pm:972> INFO - Found 29 citekeys in bib section 0
-[477] Biber.pm:4383> INFO - Processing section 0
-[496] Biber.pm:4574> INFO - Looking for bibtex file 'R_packages.bib' for section 0
-[590] bibtex.pm:1713> INFO - LaTeX decoding ...
-[600] bibtex.pm:1518> INFO - Found BibTeX data source 'R_packages.bib'
-[607] Biber.pm:4574> INFO - Looking for bibtex file 'references.bib' for section 0
-[691] bibtex.pm:1713> INFO - LaTeX decoding ...
-[774] bibtex.pm:1518> INFO - Found BibTeX data source 'references.bib'
-[1118] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
-[1118] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
-[1118] Biber.pm:4203> INFO - Sorting list 'apa/global//global/global' of type 'entry' with template 'apa' and locale 'en-US'
-[1118] Biber.pm:4209> INFO - No sort tailoring available for locale 'en-US'
-[1177] bbl.pm:654> INFO - Writing 'Master_Thesis.bbl' with encoding 'UTF-8'
-[1211] bbl.pm:757> INFO - Output to Master_Thesis.bbl
-[1211] Biber.pm:130> WARN - legacy month field 'sep' in entry 'Mignot2015' is not an integer - this will probably not sort properly.
-[1211] Biber.pm:130> WARN - legacy month field 'oct' in entry 'Templ2011' is not an integer - this will probably not sort properly.
-[1212] Biber.pm:130> WARN - legacy month field 'aug' in entry 'Passfield2016' is not an integer - this will probably not sort properly.
-[1212] Biber.pm:130> WARN - legacy month field 'Aug' in entry 'Chen2016' is not an integer - this will probably not sort properly.
-[1212] Biber.pm:130> WARN - legacy month field 'jul' in entry 'MicciBarreca2001' is not an integer - this will probably not sort properly.
-[1212] Biber.pm:130> WARN - legacy month field 'feb' in entry 'Bergstra2012' is not an integer - this will probably not sort properly.
-[1212] Biber.pm:130> WARN - legacy month field 'nov' in entry 'Ranjan2011' is not an integer - this will probably not sort properly.
-[1212] Biber.pm:130> WARN - legacy month field 'dec' in entry 'Wang2020' is not an integer - this will probably not sort properly.
-[1212] Biber.pm:130> WARN - legacy month field 'jul' in entry 'Claudino2019a' is not an integer - this will probably not sort properly.
-[1212] Biber.pm:130> WARN - legacy month field 'aug' in entry 'Tofallis2015' is not an integer - this will probably not sort properly.
-[1212] Biber.pm:130> WARN - legacy month field 'sep' in entry 'Strnad2015' is not an integer - this will probably not sort properly.
-[1212] Biber.pm:132> INFO - WARNINGS: 11
+[180] biber-MSWIN64:340> INFO - === 
+[247] Biber.pm:418> INFO - Reading 'Master_Thesis.bcf'
+[465] Biber.pm:972> INFO - Found 29 citekeys in bib section 0
+[489] Biber.pm:4383> INFO - Processing section 0
+[506] Biber.pm:4574> INFO - Looking for bibtex file 'R_packages.bib' for section 0
+[597] bibtex.pm:1713> INFO - LaTeX decoding ...
+[606] bibtex.pm:1518> INFO - Found BibTeX data source 'R_packages.bib'
+[614] Biber.pm:4574> INFO - Looking for bibtex file 'references.bib' for section 0
+[714] bibtex.pm:1713> INFO - LaTeX decoding ...
+[797] bibtex.pm:1518> INFO - Found BibTeX data source 'references.bib'
+[1161] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
+[1161] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[1161] Biber.pm:4203> INFO - Sorting list 'apa/global//global/global' of type 'entry' with template 'apa' and locale 'en-US'
+[1161] Biber.pm:4209> INFO - No sort tailoring available for locale 'en-US'
+[1223] bbl.pm:654> INFO - Writing 'Master_Thesis.bbl' with encoding 'UTF-8'
+[1258] bbl.pm:757> INFO - Output to Master_Thesis.bbl
+[1259] Biber.pm:130> WARN - legacy month field 'sep' in entry 'Mignot2015' is not an integer - this will probably not sort properly.
+[1259] Biber.pm:130> WARN - legacy month field 'oct' in entry 'Templ2011' is not an integer - this will probably not sort properly.
+[1259] Biber.pm:130> WARN - legacy month field 'aug' in entry 'Passfield2016' is not an integer - this will probably not sort properly.
+[1259] Biber.pm:130> WARN - legacy month field 'Aug' in entry 'Chen2016' is not an integer - this will probably not sort properly.
+[1259] Biber.pm:130> WARN - legacy month field 'jul' in entry 'MicciBarreca2001' is not an integer - this will probably not sort properly.
+[1259] Biber.pm:130> WARN - legacy month field 'feb' in entry 'Bergstra2012' is not an integer - this will probably not sort properly.
+[1259] Biber.pm:130> WARN - legacy month field 'nov' in entry 'Ranjan2011' is not an integer - this will probably not sort properly.
+[1259] Biber.pm:130> WARN - legacy month field 'dec' in entry 'Wang2020' is not an integer - this will probably not sort properly.
+[1259] Biber.pm:130> WARN - legacy month field 'jul' in entry 'Claudino2019a' is not an integer - this will probably not sort properly.
+[1260] Biber.pm:130> WARN - legacy month field 'aug' in entry 'Tofallis2015' is not an integer - this will probably not sort properly.
+[1260] Biber.pm:130> WARN - legacy month field 'sep' in entry 'Strnad2015' is not an integer - this will probably not sort properly.
+[1260] Biber.pm:132> INFO - WARNINGS: 11
